@@ -1,0 +1,1789 @@
+﻿Log file open, 05/26/20 23:25:05
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogInit: Display: Running engine for game: nedoida
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 14 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 1.224096
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: +3:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin AnimationSharing
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin PlasticSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin CurveEditorTools
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MaterialAnalyzer
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AutomationUtils
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin PlatformCrypto
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin SkeletalReduction
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin MLSDK
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AssetTags
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin PostSplashScreen
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SignificanceManager
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogPluginManager: Mounting plugin ScreenshotTools
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogOnline: OSS: Creating online subsystem instance for: NULL
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+LogInit: Build: ++UE4+Release-4.24-CL-11590370
+LogInit: Engine Version: 4.24.3-11590370+++UE4+Release-4.24
+LogInit: Compatible Engine Version: 4.24.0-10570792+++UE4+Release-4.24
+LogInit: Net CL: 10570792
+LogInit: OS: Windows 10 (Release 1909) (), CPU: Intel(R) Core(TM) i5-7600K CPU @ 3.80GHz, GPU: NVIDIA GeForce GTX 1060 6GB
+LogInit: Compiled (64-bit): Feb 24 2020 15:39:18
+LogInit: Compiled with Visual C++: 19.16.27032.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.24
+LogInit: Command Line: 
+LogInit: Base Directory: E:/Unreal Engine/UE_4.24/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 25
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 3
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 37
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 36
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 2
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 36
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 11
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 2
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 2
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 31
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 8
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 9
+LogDevObjectVersion:   Dev-Physics-Ext (35F94A83-E258-406C-A318-09F59610247C): 8
+LogDevObjectVersion:   Dev-CineCamera (B2E18506-4273-CFC2-A54E-F4BB758BBA07): 1
+LogInit: Presizing for max 25165824 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2020.05.26-20.25.06:540][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2020.05.26-20.25.06:540][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2020.05.26-20.25.06:542][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [D:/Projects/UE Projects/nedoida/Saved/Config/Windows/Engine.ini]
+[2020.05.26-20.25.06:542][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2020.05.26-20.25.06:542][  0]LogConfig: Setting CVar [[r.DefaultFeature.AutoExposure:1]]
+[2020.05.26-20.25.06:542][  0]LogConfig: Setting CVar [[r.EyeAdaptation.EditorOnly:1]]
+[2020.05.26-20.25.06:542][  0]LogConfig: Setting CVar [[r.UsePreExposure:1]]
+[2020.05.26-20.25.06:542][  0]LogConfig: Setting CVar [[r.GenerateMeshDistanceFields:1]]
+[2020.05.26-20.25.06:542][  0]LogConfig: Setting CVar [[r.ForwardShading:0]]
+[2020.05.26-20.25.06:542][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [D:/Projects/UE Projects/nedoida/Saved/Config/Windows/Engine.ini]
+[2020.05.26-20.25.06:542][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [D:/Projects/UE Projects/nedoida/Saved/Config/Windows/Engine.ini]
+[2020.05.26-20.25.06:542][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2020.05.26-20.25.06:542][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2020.05.26-20.25.06:542][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2020.05.26-20.25.06:542][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2020.05.26-20.25.06:542][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2020.05.26-20.25.06:542][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2020.05.26-20.25.06:542][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2020.05.26-20.25.06:542][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2020.05.26-20.25.06:542][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2020.05.26-20.25.06:542][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2020.05.26-20.25.06:542][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2020.05.26-20.25.06:542][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2020.05.26-20.25.06:542][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2020.05.26-20.25.06:542][  0]LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+[2020.05.26-20.25.06:542][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [D:/Projects/UE Projects/nedoida/Saved/Config/Windows/Engine.ini]
+[2020.05.26-20.25.06:542][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2020.05.26-20.25.06:542][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2020.05.26-20.25.06:542][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2020.05.26-20.25.06:542][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2020.05.26-20.25.06:542][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2020.05.26-20.25.06:542][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2020.05.26-20.25.06:542][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:25165824]]
+[2020.05.26-20.25.06:542][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2020.05.26-20.25.06:542][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2020.05.26-20.25.06:542][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2020.05.26-20.25.06:542][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2020.05.26-20.25.06:542][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2020.05.26-20.25.06:542][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2020.05.26-20.25.06:542][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [D:/Projects/UE Projects/nedoida/Saved/Config/Windows/Engine.ini]
+[2020.05.26-20.25.06:542][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [D:/Projects/UE Projects/nedoida/Saved/Config/Windows/Engine.ini]
+[2020.05.26-20.25.06:548][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [D:/Projects/UE Projects/nedoida/Saved/Config/Windows/Scalability.ini]
+[2020.05.26-20.25.06:548][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2020.05.26-20.25.06:549][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2020.05.26-20.25.06:549][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [D:/Projects/UE Projects/nedoida/Saved/Config/Windows/Scalability.ini]
+[2020.05.26-20.25.06:549][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2020.05.26-20.25.06:549][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [D:/Projects/UE Projects/nedoida/Saved/Config/Windows/Scalability.ini]
+[2020.05.26-20.25.06:549][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2020.05.26-20.25.06:549][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2020.05.26-20.25.06:549][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2020.05.26-20.25.06:549][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2020.05.26-20.25.06:549][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2020.05.26-20.25.06:549][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2020.05.26-20.25.06:549][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2020.05.26-20.25.06:549][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2020.05.26-20.25.06:549][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2020.05.26-20.25.06:549][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2020.05.26-20.25.06:549][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2020.05.26-20.25.06:549][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2020.05.26-20.25.06:549][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2020.05.26-20.25.06:549][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2020.05.26-20.25.06:549][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2020.05.26-20.25.06:549][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2020.05.26-20.25.06:549][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2020.05.26-20.25.06:549][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2020.05.26-20.25.06:549][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [D:/Projects/UE Projects/nedoida/Saved/Config/Windows/Scalability.ini]
+[2020.05.26-20.25.06:549][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2020.05.26-20.25.06:549][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2020.05.26-20.25.06:549][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2020.05.26-20.25.06:549][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2020.05.26-20.25.06:549][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2020.05.26-20.25.06:549][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2020.05.26-20.25.06:549][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2020.05.26-20.25.06:549][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2020.05.26-20.25.06:549][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2020.05.26-20.25.06:549][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2020.05.26-20.25.06:549][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2020.05.26-20.25.06:549][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2020.05.26-20.25.06:549][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2020.05.26-20.25.06:549][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2020.05.26-20.25.06:549][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2020.05.26-20.25.06:549][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2020.05.26-20.25.06:549][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2020.05.26-20.25.06:549][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2020.05.26-20.25.06:549][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2020.05.26-20.25.06:549][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2020.05.26-20.25.06:549][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2020.05.26-20.25.06:549][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2020.05.26-20.25.06:549][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2020.05.26-20.25.06:549][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2020.05.26-20.25.06:549][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2020.05.26-20.25.06:549][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2020.05.26-20.25.06:549][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2020.05.26-20.25.06:549][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2020.05.26-20.25.06:549][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2020.05.26-20.25.06:549][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2020.05.26-20.25.06:549][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [D:/Projects/UE Projects/nedoida/Saved/Config/Windows/Scalability.ini]
+[2020.05.26-20.25.06:549][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2020.05.26-20.25.06:549][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2020.05.26-20.25.06:549][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2020.05.26-20.25.06:549][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2020.05.26-20.25.06:549][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2020.05.26-20.25.06:549][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2020.05.26-20.25.06:549][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2020.05.26-20.25.06:549][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2020.05.26-20.25.06:549][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2020.05.26-20.25.06:549][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [D:/Projects/UE Projects/nedoida/Saved/Config/Windows/Scalability.ini]
+[2020.05.26-20.25.06:549][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2020.05.26-20.25.06:549][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2020.05.26-20.25.06:549][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2020.05.26-20.25.06:549][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2020.05.26-20.25.06:549][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2020.05.26-20.25.06:549][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2020.05.26-20.25.06:549][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2020.05.26-20.25.06:549][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2020.05.26-20.25.06:549][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2020.05.26-20.25.06:549][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2020.05.26-20.25.06:549][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2020.05.26-20.25.06:549][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2020.05.26-20.25.06:549][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2020.05.26-20.25.06:549][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2020.05.26-20.25.06:549][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2020.05.26-20.25.06:549][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2020.05.26-20.25.06:550][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountPerSlice:1]]
+[2020.05.26-20.25.06:550][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2020.05.26-20.25.06:550][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2020.05.26-20.25.06:550][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2020.05.26-20.25.06:550][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:32.0]]
+[2020.05.26-20.25.06:550][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2020.05.26-20.25.06:550][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:32.0]]
+[2020.05.26-20.25.06:550][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2020.05.26-20.25.06:550][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2020.05.26-20.25.06:550][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2020.05.26-20.25.06:550][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [D:/Projects/UE Projects/nedoida/Saved/Config/Windows/Scalability.ini]
+[2020.05.26-20.25.06:550][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2020.05.26-20.25.06:550][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2020.05.26-20.25.06:550][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [D:/Projects/UE Projects/nedoida/Saved/Config/Windows/Scalability.ini]
+[2020.05.26-20.25.06:550][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.SampleCount:16]]
+[2020.05.26-20.25.06:550][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.JitterIntegration:0]]
+[2020.05.26-20.25.06:550][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:16]]
+[2020.05.26-20.25.06:551][  0]LogInit: Selected Device Profile: [Windows]
+[2020.05.26-20.25.06:551][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2020.05.26-20.25.06:577][  0]LogHAL: Display: Platform has ~ 16 GB [17109921792 / 17179869184 / 16], which maps to Larger [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2020.05.26-20.25.06:577][  0]LogInit: Going up to parent DeviceProfile []
+[2020.05.26-20.25.06:577][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [D:/Projects/UE Projects/nedoida/Saved/Config/Windows/Scalability.ini]
+[2020.05.26-20.25.06:577][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2020.05.26-20.25.06:577][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2020.05.26-20.25.06:577][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [D:/Projects/UE Projects/nedoida/Saved/Config/Windows/Scalability.ini]
+[2020.05.26-20.25.06:577][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2020.05.26-20.25.06:577][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [D:/Projects/UE Projects/nedoida/Saved/Config/Windows/Scalability.ini]
+[2020.05.26-20.25.06:577][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2020.05.26-20.25.06:577][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2020.05.26-20.25.06:577][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2020.05.26-20.25.06:577][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2020.05.26-20.25.06:577][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2020.05.26-20.25.06:577][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2020.05.26-20.25.06:577][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2020.05.26-20.25.06:577][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2020.05.26-20.25.06:577][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2020.05.26-20.25.06:577][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2020.05.26-20.25.06:577][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2020.05.26-20.25.06:577][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2020.05.26-20.25.06:577][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2020.05.26-20.25.06:577][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2020.05.26-20.25.06:577][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2020.05.26-20.25.06:577][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2020.05.26-20.25.06:577][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2020.05.26-20.25.06:577][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2020.05.26-20.25.06:577][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [D:/Projects/UE Projects/nedoida/Saved/Config/Windows/Scalability.ini]
+[2020.05.26-20.25.06:577][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2020.05.26-20.25.06:577][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2020.05.26-20.25.06:577][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2020.05.26-20.25.06:577][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2020.05.26-20.25.06:577][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2020.05.26-20.25.06:577][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2020.05.26-20.25.06:577][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2020.05.26-20.25.06:577][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2020.05.26-20.25.06:577][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2020.05.26-20.25.06:577][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2020.05.26-20.25.06:577][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2020.05.26-20.25.06:577][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2020.05.26-20.25.06:577][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2020.05.26-20.25.06:577][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2020.05.26-20.25.06:577][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2020.05.26-20.25.06:577][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2020.05.26-20.25.06:577][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2020.05.26-20.25.06:577][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2020.05.26-20.25.06:577][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2020.05.26-20.25.06:577][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2020.05.26-20.25.06:577][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2020.05.26-20.25.06:577][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2020.05.26-20.25.06:577][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2020.05.26-20.25.06:577][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2020.05.26-20.25.06:577][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2020.05.26-20.25.06:577][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2020.05.26-20.25.06:577][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2020.05.26-20.25.06:577][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2020.05.26-20.25.06:577][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2020.05.26-20.25.06:577][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2020.05.26-20.25.06:577][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [D:/Projects/UE Projects/nedoida/Saved/Config/Windows/Scalability.ini]
+[2020.05.26-20.25.06:577][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2020.05.26-20.25.06:577][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2020.05.26-20.25.06:577][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2020.05.26-20.25.06:577][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2020.05.26-20.25.06:577][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2020.05.26-20.25.06:577][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2020.05.26-20.25.06:577][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2020.05.26-20.25.06:577][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2020.05.26-20.25.06:577][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2020.05.26-20.25.06:577][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [D:/Projects/UE Projects/nedoida/Saved/Config/Windows/Scalability.ini]
+[2020.05.26-20.25.06:577][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2020.05.26-20.25.06:577][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2020.05.26-20.25.06:577][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2020.05.26-20.25.06:577][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2020.05.26-20.25.06:577][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2020.05.26-20.25.06:577][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2020.05.26-20.25.06:577][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2020.05.26-20.25.06:577][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2020.05.26-20.25.06:577][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2020.05.26-20.25.06:578][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2020.05.26-20.25.06:578][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2020.05.26-20.25.06:578][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2020.05.26-20.25.06:578][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2020.05.26-20.25.06:578][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2020.05.26-20.25.06:578][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2020.05.26-20.25.06:578][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2020.05.26-20.25.06:578][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountPerSlice:1]]
+[2020.05.26-20.25.06:578][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2020.05.26-20.25.06:578][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2020.05.26-20.25.06:578][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2020.05.26-20.25.06:578][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:32.0]]
+[2020.05.26-20.25.06:578][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2020.05.26-20.25.06:578][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:32.0]]
+[2020.05.26-20.25.06:578][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2020.05.26-20.25.06:578][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2020.05.26-20.25.06:578][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2020.05.26-20.25.06:578][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [D:/Projects/UE Projects/nedoida/Saved/Config/Windows/Scalability.ini]
+[2020.05.26-20.25.06:578][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2020.05.26-20.25.06:578][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2020.05.26-20.25.06:578][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [D:/Projects/UE Projects/nedoida/Saved/Config/Windows/Scalability.ini]
+[2020.05.26-20.25.06:578][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.SampleCount:16]]
+[2020.05.26-20.25.06:578][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.JitterIntegration:0]]
+[2020.05.26-20.25.06:578][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:16]]
+[2020.05.26-20.25.06:578][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2020.05.26-20.25.06:579][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2020.05.26-20.25.06:579][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
+[2020.05.26-20.25.06:579][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [D:/Projects/UE Projects/nedoida/Saved/Config/Windows/Engine.ini]
+[2020.05.26-20.25.06:579][  0]LogInit: Computer: NIZIER
+[2020.05.26-20.25.06:579][  0]LogInit: User: Marty
+[2020.05.26-20.25.06:579][  0]LogInit: CPU Page size=4096, Cores=4
+[2020.05.26-20.25.06:579][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2020.05.26-20.25.06:580][  0]LogMemory: Memory total: Physical=15.9GB (16GB approx)
+[2020.05.26-20.25.06:580][  0]LogMemory: Platform Memory Stats for Windows
+[2020.05.26-20.25.06:580][  0]LogMemory: Process Physical Memory: 105.72 MB used, 105.72 MB peak
+[2020.05.26-20.25.06:580][  0]LogMemory: Process Virtual Memory: 99.71 MB used, 99.71 MB peak
+[2020.05.26-20.25.06:580][  0]LogMemory: Physical Memory: 7027.67 MB used,  9289.62 MB free, 16317.29 MB total
+[2020.05.26-20.25.06:580][  0]LogMemory: Virtual Memory: 5121.48 MB used,  134212608.00 MB free, 134217728.00 MB total
+[2020.05.26-20.25.06:583][  0]LogWindows: WindowsPlatformFeatures enabled
+[2020.05.26-20.25.06:982][  0]LogInit: Using OS detected language (ru-RU).
+[2020.05.26-20.25.06:982][  0]LogInit: Using OS detected locale (ru-RU).
+[2020.05.26-20.25.06:985][  0]LogTextLocalizationManager: No specific localization for 'ru-RU' exists, so the 'ru' localization will be used.
+[2020.05.26-20.25.06:986][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/Editor/ru/Editor.locres' could not be opened for reading!
+[2020.05.26-20.25.06:986][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/EditorTutorials/ru/EditorTutorials.locres' could not be opened for reading!
+[2020.05.26-20.25.06:986][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/Keywords/ru/Keywords.locres' could not be opened for reading!
+[2020.05.26-20.25.06:986][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/Category/ru/Category.locres' could not be opened for reading!
+[2020.05.26-20.25.06:986][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/ToolTips/ru/ToolTips.locres' could not be opened for reading!
+[2020.05.26-20.25.06:987][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/PropertyNames/ru/PropertyNames.locres' could not be opened for reading!
+[2020.05.26-20.25.06:987][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/Engine/ru/Engine.locres' could not be opened for reading!
+[2020.05.26-20.25.07:001][  0]LogInit: Setting process to per monitor DPI aware
+[2020.05.26-20.25.07:140][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2020.05.26-20.25.07:140][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2020.05.26-20.25.10:274][  0]LogHMD: Failed to initialize OpenVR with code 101
+[2020.05.26-20.25.10:274][  0]LogD3D11RHI: D3D11 min allowed feature level: 11_0
+[2020.05.26-20.25.10:274][  0]LogD3D11RHI: D3D11 max allowed feature level: 11_0
+[2020.05.26-20.25.10:274][  0]LogD3D11RHI: D3D11 adapters:
+[2020.05.26-20.25.10:355][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 1060 6GB' (Feature Level 11_0)
+[2020.05.26-20.25.10:355][  0]LogD3D11RHI:       6052/0/8158 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2020.05.26-20.25.10:358][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2020.05.26-20.25.10:358][  0]LogD3D11RHI:       0/0/8158 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2020.05.26-20.25.10:358][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2020.05.26-20.25.10:374][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2020.05.26-20.25.10:375][  0]LogD3D11RHI:     GPU DeviceId: 0x1c03 (for the marketing name, search the web for "GPU Device Id")
+[2020.05.26-20.25.10:375][  0]LogWindows: EnumDisplayDevices:
+[2020.05.26-20.25.10:375][  0]LogWindows:    0. 'NVIDIA GeForce GTX 1060 6GB' (P:1 D:1)
+[2020.05.26-20.25.10:375][  0]LogWindows:    1. 'NVIDIA GeForce GTX 1060 6GB' (P:0 D:0)
+[2020.05.26-20.25.10:375][  0]LogWindows:    2. 'NVIDIA GeForce GTX 1060 6GB' (P:0 D:0)
+[2020.05.26-20.25.10:375][  0]LogWindows:    3. 'NVIDIA GeForce GTX 1060 6GB' (P:0 D:0)
+[2020.05.26-20.25.10:376][  0]LogWindows: DebugString: FoundDriverCount:4 
+[2020.05.26-20.25.10:376][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 1060 6GB
+[2020.05.26-20.25.10:376][  0]LogD3D11RHI:   Driver Version: 442.92 (internal:26.21.14.4292, unified:442.92)
+[2020.05.26-20.25.10:376][  0]LogD3D11RHI:      Driver Date: 4-7-2020
+[2020.05.26-20.25.10:376][  0]LogRHI: Texture pool is 4236 MB (70% of 6052 MB)
+[2020.05.26-20.25.10:423][  0]LogD3D11RHI: RHI has support for 64 bit atomics
+[2020.05.26-20.25.10:424][  0]LogD3D11RHI: Async texture creation enabled
+[2020.05.26-20.25.10:492][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2020.05.26-20.25.11:105][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AllDesktop'
+[2020.05.26-20.25.11:149][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android'
+[2020.05.26-20.25.11:149][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTC'
+[2020.05.26-20.25.11:149][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ATC'
+[2020.05.26-20.25.11:149][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXT'
+[2020.05.26-20.25.11:149][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC1'
+[2020.05.26-20.25.11:149][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC1a'
+[2020.05.26-20.25.11:149][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2'
+[2020.05.26-20.25.11:149][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_PVRTC'
+[2020.05.26-20.25.11:149][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AndroidClient'
+[2020.05.26-20.25.11:149][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTCClient'
+[2020.05.26-20.25.11:149][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ATCClient'
+[2020.05.26-20.25.11:149][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXTClient'
+[2020.05.26-20.25.11:149][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC1Client'
+[2020.05.26-20.25.11:149][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC1aClient'
+[2020.05.26-20.25.11:149][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2Client'
+[2020.05.26-20.25.11:149][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_PVRTCClient'
+[2020.05.26-20.25.11:149][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_Multi'
+[2020.05.26-20.25.11:149][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_MultiClient'
+[2020.05.26-20.25.11:188][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOSClient'
+[2020.05.26-20.25.11:188][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOS'
+[2020.05.26-20.25.11:202][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxNoEditor'
+[2020.05.26-20.25.11:227][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxClient'
+[2020.05.26-20.25.11:243][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxServer'
+[2020.05.26-20.25.11:265][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64NoEditor'
+[2020.05.26-20.25.11:278][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Client'
+[2020.05.26-20.25.11:295][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Server'
+[2020.05.26-20.25.11:322][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Lumin'
+[2020.05.26-20.25.11:322][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LuminClient'
+[2020.05.26-20.25.11:348][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOSClient'
+[2020.05.26-20.25.11:348][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOS'
+[2020.05.26-20.25.11:359][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsNoEditor'
+[2020.05.26-20.25.11:370][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Windows'
+[2020.05.26-20.25.11:394][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsClient'
+[2020.05.26-20.25.11:405][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsServer'
+[2020.05.26-20.25.11:405][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2020.05.26-20.25.11:448][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2020.05.26-20.25.11:633][  0]LogShaderCompilers: Guid format shader working directory is 14 characters bigger than the processId version (D:/Projects/UE Projects/nedoida/Intermediate/Shaders/WorkingDirectory/15220/).
+[2020.05.26-20.25.11:633][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/Marty/AppData/Local/Temp/UnrealShaderWorkingDir/A60779DF4FB72F1FEE4156BEF396C957/'.
+[2020.05.26-20.25.11:635][  0]LogXGEController: Cleaning working directory: C:/Users/Marty/AppData/Local/Temp/UnrealXGEWorkingDir/
+[2020.05.26-20.25.11:635][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2020.05.26-20.25.11:635][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2020.05.26-20.25.11:635][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2020.05.26-20.25.14:539][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2020.05.26-20.25.14:734][  0]LogDerivedDataCache: Loaded boot cache 0.19s 79MB C:/Users/Marty/AppData/Local/UnrealEngine/4.24/DerivedDataCache/Boot.ddc.
+[2020.05.26-20.25.14:734][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/Marty/AppData/Local/UnrealEngine/4.24/DerivedDataCache/Boot.ddc
+[2020.05.26-20.25.14:734][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file D:/Projects/UE Projects/nedoida/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2020.05.26-20.25.14:734][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2020.05.26-20.25.14:734][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file D:/Projects/UE Projects/nedoida/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2020.05.26-20.25.14:734][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2020.05.26-20.25.14:764][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2020.05.26-20.25.14:764][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2020.05.26-20.25.14:764][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2020.05.26-20.25.14:768][  0]LogDerivedDataCache: Using Local data cache path C:/Users/Marty/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2020.05.26-20.25.14:768][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2020.05.26-20.25.14:768][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2020.05.26-20.25.14:792][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2020.05.26-20.25.14:802][  0]LogSlate: Using FreeType 2.10.0
+[2020.05.26-20.25.14:812][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2020.05.26-20.25.15:320][  0]LogAssetRegistry: FAssetRegistry took 0.0068 seconds to start up
+[2020.05.26-20.25.15:795][  0]LogInit: Selected Device Profile: [Windows]
+[2020.05.26-20.25.16:323][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2020.05.26-20.25.16:323][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2020.05.26-20.25.16:323][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2020.05.26-20.25.16:323][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2020.05.26-20.25.16:323][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2020.05.26-20.25.16:373][  0]LogNetVersion: nedoida 1.0.0, NetCL: 10570792, EngineNetVer: 13, GameNetVer: 0 (Checksum: 2243445365)
+[2020.05.26-20.25.23:013][  0]LogPackageLocalizationCache: Processed 10 localized package path(s) for 1 prioritized culture(s) in 0.067844 seconds
+[2020.05.26-20.25.23:020][  0]LogUObjectArray: 46750 objects as part of root set at end of initial load.
+[2020.05.26-20.25.23:020][  0]LogUObjectAllocator: 8137160 out of 0 bytes used by permanent object pool.
+[2020.05.26-20.25.23:020][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2020.05.26-20.25.24:245][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2020.05.26-20.25.24:258][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2020.05.26-20.25.24:509][  0]SourceControl: Source control is disabled
+[2020.05.26-20.25.24:511][  0]SourceControl: Source control is disabled
+[2020.05.26-20.25.24:537][  0]SourceControl: Source control is disabled
+[2020.05.26-20.25.24:551][  0]SourceControl: Source control is disabled
+[2020.05.26-20.25.24:562][  0]SourceControl: Source control is disabled
+[2020.05.26-20.25.25:177][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2020.05.26-20.25.25:226][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2020.05.26-20.25.25:226][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2020.05.26-20.25.25:420][  0]LogOcInput: OculusInput pre-init called
+[2020.05.26-20.25.25:466][  0]LogWindows: Failed to load 'OVRPlugin.dll' (GetLastError=126)
+[2020.05.26-20.25.25:466][  0]LogWindows: File 'OVRPlugin.dll' does not exist
+[2020.05.26-20.25.25:643][  0]LogEngine: Initializing Engine...
+[2020.05.26-20.25.25:645][  0]LogHMD: Failed to initialize OpenVR with code 101
+[2020.05.26-20.25.25:651][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.003 s
+[2020.05.26-20.25.26:008][  0]LogInit: Initializing FReadOnlyCVARCache
+[2020.05.26-20.25.26:058][  0]LogAIModule: Creating AISystem for world Untitled
+[2020.05.26-20.25.26:074][  0]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.05.26-20.25.26:074][  0]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.05.26-20.25.26:074][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.05.26-20.25.26:074][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.05.26-20.25.26:074][  0]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.05.26-20.25.26:074][  0]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.05.26-20.25.26:074][  0]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.05.26-20.25.26:074][  0]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.05.26-20.25.26:076][  0]LogAudio: Display: Using built-in audio occlusion.
+[2020.05.26-20.25.26:076][  0]LogAudioMixer: Display: Initializing audio mixer.
+[2020.05.26-20.25.26:097][  0]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.05.26-20.25.26:097][  0]LogAudioMixer: Display: Name: Наушники (Realtek High Definition Audio)
+[2020.05.26-20.25.26:097][  0]LogAudioMixer: Display: Is Default: Yes
+[2020.05.26-20.25.26:097][  0]LogAudioMixer: Display: Sample Rate: 48000
+[2020.05.26-20.25.26:097][  0]LogAudioMixer: Display: Channel Count Used: 2
+[2020.05.26-20.25.26:097][  0]LogAudioMixer: Display: Device Channel Count: 2
+[2020.05.26-20.25.26:097][  0]LogAudioMixer: Display: Channel Order:
+[2020.05.26-20.25.26:097][  0]LogAudioMixer: Display: 0: FrontLeft
+[2020.05.26-20.25.26:097][  0]LogAudioMixer: Display: 1: FrontRight
+[2020.05.26-20.25.26:112][  0]LogAudioMixer: Display: Using Audio Device Наушники (Realtek High Definition Audio)
+[2020.05.26-20.25.26:119][  0]LogInit: FAudioDevice initialized.
+[2020.05.26-20.25.26:119][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2020.05.26-20.25.26:210][  0]LogDerivedDataCache: Saved boot cache 0.09s 79MB C:/Users/Marty/AppData/Local/UnrealEngine/4.24/DerivedDataCache/Boot.ddc.
+[2020.05.26-20.25.26:210][  0]LogInit: Texture streaming: Enabled
+[2020.05.26-20.25.26:232][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2020.05.26-20.25.26:233][  0]LogEditorSessionSummary: Verbose: Initializing EditorSessionSummaryWriter for editor session tracking
+[2020.05.26-20.25.26:236][  0]LogEditorSessionSummary: EditorSessionSummaryWriter initialized
+[2020.05.26-20.25.26:312][  0]LogInit: Transaction tracking system initialized
+[2020.05.26-20.25.26:410][  0]BlueprintLog: New page: Editor Load
+[2020.05.26-20.25.26:648][  0]LocalizationService: Localization service is disabled
+[2020.05.26-20.25.26:845][  0]LogLinker: Warning: Failed to load '/Game/ThirdPersonBP/ThirdPersonOverview': Can't find file.
+[2020.05.26-20.25.26:845][  0]LogLinker: Warning: Failed to load '/Game/ThirdPersonBP/ThirdPersonOverview': Can't find file.
+[2020.05.26-20.25.26:845][  0]LogUObjectGlobals: Warning: Failed to find object 'Class /Game/ThirdPersonBP/ThirdPersonOverview.ThirdPersonOverview_C'
+[2020.05.26-20.25.27:276][  0]LogFileCache: Scanning file cache for directory 'D:/Projects/UE Projects/nedoida/Content/' took 0.01s
+[2020.05.26-20.25.27:276][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2020.05.26-20.25.27:276][  0]LogCook: Display: Mobile HDR setting 1
+[2020.05.26-20.25.28:373][  0]SourceControl: Source control is disabled
+[2020.05.26-20.25.28:374][  0]Cmd: MAP LOAD FILE="D:/Projects/UE Projects/nedoida/Content/Maps/Test.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2020.05.26-20.25.28:375][  0]LightingResults: New page: Lighting Build
+[2020.05.26-20.25.28:384][  0]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2020.05.26-20.25.28:385][  0]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.05.26-20.25.28:385][  0]MapCheck: New page: Map Check
+[2020.05.26-20.25.28:385][  0]LightingResults: New page: Lighting Build
+[2020.05.26-20.25.28:412][  0]LogUObjectHash: Compacting FUObjectHashTables data took   1.29ms
+[2020.05.26-20.25.31:152][  0]LogAIModule: Creating AISystem for world Test
+[2020.05.26-20.25.31:484][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2020.05.26-20.25.31:516][  0]LogUObjectHash: Compacting FUObjectHashTables data took   2.09ms
+[2020.05.26-20.25.31:516][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2020.05.26-20.25.31:517][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0,339ms to complete.
+[2020.05.26-20.25.31:517][  0]LogFileHelpers: Loading map 'Test' took 3.144
+[2020.05.26-20.25.31:747][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.05.26-20.25.31:754][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.05.26-20.25.31:760][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.05.26-20.25.31:766][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.05.26-20.25.31:810][  0]LogCollectionManager: Loaded 0 collections in 0.000884 seconds
+[2020.05.26-20.25.31:894][  0]LogFileCache: Scanning file cache for directory 'D:/Projects/UE Projects/nedoida/Saved/Collections/' took 0.00s
+[2020.05.26-20.25.31:894][  0]LogFileCache: Scanning file cache for directory 'D:/Projects/UE Projects/nedoida/Content/Developers/Marty/Collections/' took 0.00s
+[2020.05.26-20.25.31:894][  0]LogFileCache: Scanning file cache for directory 'D:/Projects/UE Projects/nedoida/Content/Collections/' took 0.00s
+[2020.05.26-20.25.31:894][  0]LogContentBrowser: Native class hierarchy populated in 0.0103 seconds. Added 3015 classes and 717 folders.
+[2020.05.26-20.25.31:910][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2020.05.26-20.25.32:267][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2020.05.26-20.25.32:283][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0005 seconds. Added 2 classes and 3 folders.
+[2020.05.26-20.25.32:357][  0]LogContentBrowser: Native class hierarchy updated for 'WorldBrowser' in 0.0003 seconds. Added 2 classes and 3 folders.
+[2020.05.26-20.25.32:709][  0]LogSlate: Took 0.001711 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2020.05.26-20.25.32:721][  0]LogSlate: Took 0.010406 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2020.05.26-20.25.32:728][  0]LogSlate: Took 0.002838 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2020.05.26-20.25.32:830][  0]LogRenderer: Reallocating scene render targets to support 512x512 Format 10 NumSamples 1 (Frame:1).
+[2020.05.26-20.25.32:863][  0]LogRenderer: Reallocating scene render targets to support 1108x692 Format 10 NumSamples 1 (Frame:1).
+[2020.05.26-20.25.32:873][  0]LogStaticMesh: Allocated 508x64x64 distance field atlas = 4.0Mb, with 32 objects containing 2.8Mb backing data
+[2020.05.26-20.25.32:984][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2020.05.26-20.25.32:984][  0]LogLoad: (Engine Initialization) Total time: 31.94 seconds
+[2020.05.26-20.25.32:984][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2020.05.26-20.25.33:057][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2020.05.26-20.25.33:101][  0]LogSlate: Took 0.015461 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2020.05.26-20.25.34:200][ 13]LogAssetRegistry: Asset discovery search completed in 18.8814 seconds
+[2020.05.26-20.25.34:203][ 13]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000009 seconds (updated 0 objects)
+[2020.05.26-20.25.55:505][ 84]LogSlate: Took 0.000127 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2020.05.26-20.25.55:534][ 84]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:\Users\Marty\Downloads\NedoidaWithCloakTogether.fbx)
+[2020.05.26-20.25.55:596][ 84]LogFbx: Loading FBX Scene from C:\Users\Marty\Downloads\NedoidaWithCloakTogether.fbx
+[2020.05.26-20.25.55:713][ 84]LogFbx: FBX Scene Loaded Succesfully
+[2020.05.26-20.26.04:029][ 84]LogSlate: Window 'FBX Import Options' being destroyed
+[2020.05.26-20.26.04:075][ 84]LogFbx: Valid bind pose for Pose (Cylinder) - Mesh
+[2020.05.26-20.26.04:085][ 84]LogFbx: Triangulating skeletal mesh Mesh
+[2020.05.26-20.26.13:153][ 84]LogFbx: Warning: Bones digested - 23  Depth of hierarchy - 6
+[2020.05.26-20.26.18:067][ 84]LogSkeletalMesh: Section 0: 164 vertices, 3 active bones
+[2020.05.26-20.26.18:067][ 84]LogSkeletalMesh: Section 1: 2116 vertices, 13 active bones
+[2020.05.26-20.26.18:067][ 84]LogSkeletalMesh: Section 2: 1548 vertices, 1 active bones
+[2020.05.26-20.26.18:088][ 84]LogSkeletalMesh: Section 3: 134478 vertices, 1 active bones
+[2020.05.26-20.26.18:088][ 84]LogSkeletalMesh: Section 4: 264 vertices, 1 active bones
+[2020.05.26-20.26.18:104][ 84]LogSkeletalMesh: Section 0: Material=0, 124 triangles
+[2020.05.26-20.26.18:104][ 84]LogSkeletalMesh: Section 1: Material=1, 1992 triangles
+[2020.05.26-20.26.18:104][ 84]LogSkeletalMesh: Section 2: Material=2, 1920 triangles
+[2020.05.26-20.26.18:104][ 84]LogSkeletalMesh: Section 3: Material=3, 257184 triangles
+[2020.05.26-20.26.18:104][ 84]LogSkeletalMesh: Section 4: Material=4, 288 triangles
+[2020.05.26-20.26.18:138][ 84]LogSkeletalMesh: Building Skeletal Mesh NedoidaWithCloakTogether...
+[2020.05.26-20.26.22:449][ 84]LogSkeletalMesh: Section 0: 164 vertices, 3 active bones
+[2020.05.26-20.26.22:449][ 84]LogSkeletalMesh: Section 1: 2116 vertices, 13 active bones
+[2020.05.26-20.26.22:449][ 84]LogSkeletalMesh: Section 2: 1548 vertices, 1 active bones
+[2020.05.26-20.26.22:470][ 84]LogSkeletalMesh: Section 3: 134478 vertices, 1 active bones
+[2020.05.26-20.26.22:470][ 84]LogSkeletalMesh: Section 4: 264 vertices, 1 active bones
+[2020.05.26-20.26.22:483][ 84]LogSkeletalMesh: Section 0: Material=0, 124 triangles
+[2020.05.26-20.26.22:483][ 84]LogSkeletalMesh: Section 1: Material=1, 1992 triangles
+[2020.05.26-20.26.22:483][ 84]LogSkeletalMesh: Section 2: Material=2, 1920 triangles
+[2020.05.26-20.26.22:483][ 84]LogSkeletalMesh: Section 3: Material=3, 257184 triangles
+[2020.05.26-20.26.22:483][ 84]LogSkeletalMesh: Section 4: Material=4, 288 triangles
+[2020.05.26-20.26.22:957][ 84]LogSkeletalMesh: Built Skeletal Mesh [4.82s] /Game/_Nedoida/Test/NedoidaWithCloakTogether.NedoidaWithCloakTogether
+[2020.05.26-20.26.23:017][ 84]LogLinker: Failed to load '/Game/_Nedoida/Test/NedoidaWithCloakTogether_PhysicsAsset': Can't find file.
+[2020.05.26-20.26.23:017][ 84]LogLinker: Failed to load '/Game/_Nedoida/Test/NedoidaWithCloakTogether_PhysicsAsset': Can't find file.
+[2020.05.26-20.26.23:045][ 84]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Engine/Transient.World_3:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0'
+[2020.05.26-20.26.23:045][ 84]LogWorld: UWorld::CleanupWorld for World_3, bSessionEnded=true, bCleanupResources=true
+[2020.05.26-20.26.23:045][ 84]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.05.26-20.26.23:062][ 84]LogWorld: UWorld::CleanupWorld for World_4, bSessionEnded=true, bCleanupResources=true
+[2020.05.26-20.26.23:062][ 84]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.05.26-20.26.23:313][ 84]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2020.05.26-20.26.23:313][ 84]FBXImport: Warning: The following bones are missing from the bind pose:
+Head_end  
+Hand_end  
+Hand001_end  
+LFoot_end  
+RFoot_end  
+
+This can happen for bones that are not vert weighted. If they are not in the correct orientation after importing,
+please set the "Use T0 as ref pose" option or add them to the bind pose and reimport the skeletal mesh. 
+[2020.05.26-20.26.25:660][286]LogAssetEditorSubsystem: Opening Asset editor for SkeletalMesh /Game/_Nedoida/Test/NedoidaWithCloakTogether.NedoidaWithCloakTogether
+[2020.05.26-20.26.25:692][286]LogContentBrowser: Native class hierarchy updated for 'SkeletonEditor' in 0.0003 seconds. Added 1 classes and 2 folders.
+[2020.05.26-20.26.25:924][286]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_5:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2020.05.26-20.26.25:934][286]LogContentBrowser: Native class hierarchy updated for 'PinnedCommandList' in 0.0003 seconds. Added 1 classes and 0 folders.
+[2020.05.26-20.26.26:042][286]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_5:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) - call TermArticulated first.
+[2020.05.26-20.26.26:804][286]LogSlate: Took 0.001480 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2020.05.26-20.26.26:870][286]LogRenderer: Reallocating scene render targets to support 1144x896 Format 10 NumSamples 1 (Frame:1).
+[2020.05.26-20.26.26:870][286]LogStaticMesh: Allocated 494x129x64 distance field atlas = 7.8Mb, with 34 objects containing 3.1Mb backing data
+[2020.05.26-20.27.39:007][709]LogSlate: Window 'NedoidaWithCloakTogether' being destroyed
+[2020.05.26-20.28.25:222][871]LogAssetEditorSubsystem: Opening Asset editor for Material /Game/_Nedoida/M_Cloak.M_Cloak
+[2020.05.26-20.28.25:235][871]LogMaterial: Display: Missing cached shader map for material M_Cloak, compiling. 
+[2020.05.26-20.28.25:372][871]LogMaterial: Display: Missing cached shader map for material M_Cloak, compiling. 
+[2020.05.26-20.28.25:384][871]LogMaterial: Display: Missing cached shader map for material M_Cloak, compiling. 
+[2020.05.26-20.28.25:396][871]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 9
+[2020.05.26-20.28.25:396][871]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 8
+[2020.05.26-20.28.25:396][871]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 7
+[2020.05.26-20.28.25:435][871]LogSlate: Took 0.012300 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2020.05.26-20.28.26:496][980]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 6
+[2020.05.26-20.28.26:786][ 12]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 5
+[2020.05.26-20.28.27:046][ 42]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 4
+[2020.05.26-20.28.27:540][ 96]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 3
+[2020.05.26-20.28.27:647][109]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 2
+[2020.05.26-20.28.27:932][142]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 1
+[2020.05.26-20.28.28:507][208]MaterialEditorStats: Base pass shader: 117 instructions
+[2020.05.26-20.28.28:507][208]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 191 instructions
+[2020.05.26-20.28.28:507][208]MaterialEditorStats: Base pass vertex shader: 40 instructions
+[2020.05.26-20.28.28:507][208]MaterialEditorStats: Texture samplers: 2/16
+[2020.05.26-20.28.29:095][277]LogMaterial: Display: Missing cached shader map for material M_Cloak, compiling. 
+[2020.05.26-20.28.29:107][277]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_0, compiling. 
+[2020.05.26-20.28.29:128][278]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 9
+[2020.05.26-20.28.29:128][278]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 8
+[2020.05.26-20.28.29:128][278]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 7
+[2020.05.26-20.28.29:723][346]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 10
+[2020.05.26-20.28.30:069][385]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 9
+[2020.05.26-20.28.30:263][407]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 8
+[2020.05.26-20.28.30:674][448]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 7
+[2020.05.26-20.28.30:770][458]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 6
+[2020.05.26-20.28.31:288][518]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 5
+[2020.05.26-20.28.31:696][564]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 4
+[2020.05.26-20.28.31:976][597]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 3
+[2020.05.26-20.28.32:075][608]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 2
+[2020.05.26-20.28.32:089][609]MaterialEditorStats: Base pass shader: 117 instructions
+[2020.05.26-20.28.32:089][609]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 191 instructions
+[2020.05.26-20.28.32:089][609]MaterialEditorStats: Base pass vertex shader: 40 instructions
+[2020.05.26-20.28.32:089][609]MaterialEditorStats: Texture samplers: 2/16
+[2020.05.26-20.28.32:499][657]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 1
+[2020.05.26-20.28.33:884][819]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_0, compiling. 
+[2020.05.26-20.28.33:895][819]LogMaterial: Display: Missing cached shader map for material M_Cloak, compiling. 
+[2020.05.26-20.28.33:903][819]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 4
+[2020.05.26-20.28.33:903][819]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 3
+[2020.05.26-20.28.33:903][819]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 2
+[2020.05.26-20.28.33:909][819]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_0, compiling. 
+[2020.05.26-20.28.33:921][819]LogMaterial: Display: Missing cached shader map for material M_Cloak, compiling. 
+[2020.05.26-20.28.34:595][894]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 13
+[2020.05.26-20.28.34:718][908]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 12
+[2020.05.26-20.28.34:769][914]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 11
+[2020.05.26-20.28.34:960][934]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_0, compiling. 
+[2020.05.26-20.28.34:973][934]LogMaterial: Display: Missing cached shader map for material M_Cloak, compiling. 
+[2020.05.26-20.28.34:987][934]LogMaterial: Display: Missing cached shader map for material M_Cloak, compiling. 
+[2020.05.26-20.28.35:008][934]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_0, compiling. 
+[2020.05.26-20.28.35:028][934]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_0, compiling. 
+[2020.05.26-20.28.35:040][934]LogMaterial: Display: Missing cached shader map for material M_Cloak, compiling. 
+[2020.05.26-20.28.35:268][959]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 13
+[2020.05.26-20.28.35:268][959]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 12
+[2020.05.26-20.28.35:442][977]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 11
+[2020.05.26-20.28.35:896][ 30]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 10
+[2020.05.26-20.28.35:941][ 35]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 9
+[2020.05.26-20.28.35:949][ 36]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 8
+[2020.05.26-20.28.36:401][ 86]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 7
+[2020.05.26-20.28.36:568][ 87]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 6
+[2020.05.26-20.28.36:568][ 87]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 5
+[2020.05.26-20.28.36:682][ 87]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 4
+[2020.05.26-20.28.36:961][ 87]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 3
+[2020.05.26-20.28.37:012][ 87]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 2
+[2020.05.26-20.28.37:036][ 87]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 1
+[2020.05.26-20.28.39:602][351]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_0, compiling. 
+[2020.05.26-20.28.39:616][351]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 4
+[2020.05.26-20.28.39:616][351]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 3
+[2020.05.26-20.28.39:616][351]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 2
+[2020.05.26-20.28.39:616][351]LogMaterial: Display: Missing cached shader map for material M_Cloak, compiling. 
+[2020.05.26-20.28.39:629][351]LogMaterial: Display: Missing cached shader map for material M_Cloak, compiling. 
+[2020.05.26-20.28.39:649][351]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_0, compiling. 
+[2020.05.26-20.28.39:669][351]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_0, compiling. 
+[2020.05.26-20.28.39:680][351]LogMaterial: Display: Missing cached shader map for material M_Cloak, compiling. 
+[2020.05.26-20.28.40:230][414]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 13
+[2020.05.26-20.28.40:394][433]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 12
+[2020.05.26-20.28.40:403][434]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 11
+[2020.05.26-20.28.40:771][476]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 10
+[2020.05.26-20.28.40:859][486]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 9
+[2020.05.26-20.28.40:997][502]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 8
+[2020.05.26-20.28.41:207][526]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 7
+[2020.05.26-20.28.41:624][574]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 6
+[2020.05.26-20.28.41:635][575]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 5
+[2020.05.26-20.28.41:766][589]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 4
+[2020.05.26-20.28.41:966][610]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_0, compiling. 
+[2020.05.26-20.28.41:978][610]LogMaterial: Display: Missing cached shader map for material M_Cloak, compiling. 
+[2020.05.26-20.28.41:993][610]LogMaterial: Display: Missing cached shader map for material M_Cloak, compiling. 
+[2020.05.26-20.28.42:008][610]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_0, compiling. 
+[2020.05.26-20.28.42:028][610]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_0, compiling. 
+[2020.05.26-20.28.42:040][610]LogMaterial: Display: Missing cached shader map for material M_Cloak, compiling. 
+[2020.05.26-20.28.42:327][641]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 13
+[2020.05.26-20.28.42:531][665]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 12
+[2020.05.26-20.28.42:556][666]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_0, compiling. 
+[2020.05.26-20.28.42:568][666]LogMaterial: Display: Missing cached shader map for material M_Cloak, compiling. 
+[2020.05.26-20.28.42:583][666]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_0, compiling. 
+[2020.05.26-20.28.42:590][666]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 9
+[2020.05.26-20.28.42:594][666]LogMaterial: Display: Missing cached shader map for material M_Cloak, compiling. 
+[2020.05.26-20.28.42:603][666]LogSlate: Window 'Color Picker' being destroyed
+[2020.05.26-20.28.43:079][721]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 13
+[2020.05.26-20.28.43:288][745]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 12
+[2020.05.26-20.28.43:481][749]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 11
+[2020.05.26-20.28.43:562][751]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 10
+[2020.05.26-20.28.43:728][770]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 9
+[2020.05.26-20.28.43:888][788]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 8
+[2020.05.26-20.28.44:005][801]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 7
+[2020.05.26-20.28.44:222][802]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 6
+[2020.05.26-20.28.44:227][802]LogMaterial: Display: Missing cached shader map for material M_Cloak, compiling. 
+[2020.05.26-20.28.44:246][802]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_0, compiling. 
+[2020.05.26-20.28.44:497][831]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 13
+[2020.05.26-20.28.44:576][840]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 12
+[2020.05.26-20.28.44:933][879]LogMaterial: Display: Missing cached shader map for material M_Cloak, compiling. 
+[2020.05.26-20.28.45:096][897]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 13
+[2020.05.26-20.28.45:426][934]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 12
+[2020.05.26-20.28.45:557][949]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 11
+[2020.05.26-20.28.45:797][975]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant_0, compiling. 
+[2020.05.26-20.28.45:870][984]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 14
+[2020.05.26-20.28.46:168][ 18]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 13
+[2020.05.26-20.28.46:241][ 26]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 12
+[2020.05.26-20.28.46:438][ 49]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 11
+[2020.05.26-20.28.46:993][111]LogMaterial: Display: Missing cached shader map for material M_Cloak, compiling. 
+[2020.05.26-20.28.47:012][111]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant_0, compiling. 
+[2020.05.26-20.28.47:025][111]LogMaterial: Display: Missing cached shader map for material M_Cloak, compiling. 
+[2020.05.26-20.28.47:034][111]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 4
+[2020.05.26-20.28.47:070][116]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 12
+[2020.05.26-20.28.47:257][137]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 11
+[2020.05.26-20.28.47:804][200]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 10
+[2020.05.26-20.28.47:822][201]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 9
+[2020.05.26-20.28.47:910][211]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 8
+[2020.05.26-20.28.48:137][236]LogMaterial: Display: Missing cached shader map for material M_Cloak, compiling. 
+[2020.05.26-20.28.48:380][264]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 9
+[2020.05.26-20.28.48:882][322]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 8
+[2020.05.26-20.28.48:951][330]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 7
+[2020.05.26-20.28.49:338][374]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 6
+[2020.05.26-20.28.49:424][384]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 5
+[2020.05.26-20.28.49:714][418]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 4
+[2020.05.26-20.28.50:037][455]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 3
+[2020.05.26-20.28.50:143][467]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 2
+[2020.05.26-20.28.50:196][473]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 1
+[2020.05.26-20.28.50:356][490]LogMaterial: Display: Missing cached shader map for material M_Cloak, compiling. 
+[2020.05.26-20.28.50:371][490]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant_0, compiling. 
+[2020.05.26-20.28.51:066][563]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 13
+[2020.05.26-20.28.51:195][579]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 12
+[2020.05.26-20.28.51:262][586]LogMaterialEditor: Saving and Compiling material M_Cloak
+[2020.05.26-20.28.51:653][586]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 11
+[2020.05.26-20.28.51:666][586]LogMaterial: Display: Missing cached shader map for material M_Cloak, compiling. 
+[2020.05.26-20.28.51:716][586]LogMaterial: Display: Missing cached shader map for material M_Cloak, compiling. 
+[2020.05.26-20.28.51:830][586]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 28
+[2020.05.26-20.28.51:830][586]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 27
+[2020.05.26-20.28.51:830][586]LogUObjectHash: Compacting FUObjectHashTables data took   1.74ms
+[2020.05.26-20.28.51:842][586]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2020.05.26-20.28.53:666][586]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 28
+[2020.05.26-20.28.53:666][586]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 27
+[2020.05.26-20.28.53:666][586]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 26
+[2020.05.26-20.28.53:666][586]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 25
+[2020.05.26-20.28.53:666][586]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 24
+[2020.05.26-20.28.53:666][586]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 23
+[2020.05.26-20.28.53:666][586]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 22
+[2020.05.26-20.28.53:666][586]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 21
+[2020.05.26-20.28.53:666][586]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 20
+[2020.05.26-20.28.53:666][586]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 19
+[2020.05.26-20.28.53:666][586]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 18
+[2020.05.26-20.28.53:666][586]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 17
+[2020.05.26-20.28.53:666][586]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 16
+[2020.05.26-20.28.53:666][586]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 15
+[2020.05.26-20.28.53:666][586]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 9
+[2020.05.26-20.28.53:666][586]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 5
+[2020.05.26-20.28.53:672][586]TextureStreamingBuild: Display: Compiling optional shaders took 1.841 seconds.
+[2020.05.26-20.28.53:713][586]LogUObjectHash: Compacting FUObjectHashTables data took   0.59ms
+[2020.05.26-20.28.55:347][586]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 3
+[2020.05.26-20.28.55:347][586]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 1
+[2020.05.26-20.28.55:383][586]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/_Nedoida/M_Cloak" FILE="D:/Projects/UE Projects/nedoida/Content/_Nedoida/M_Cloak.uasset" SILENT=true
+[2020.05.26-20.28.55:406][586]LogSavePackage: Moving 'D:/Projects/UE Projects/nedoida/Saved/M_Cloak4128029D4563311223606D8B4B08ED3C.tmp' to 'D:/Projects/UE Projects/nedoida/Content/_Nedoida/M_Cloak.uasset'
+[2020.05.26-20.28.55:426][586]AssetCheck: New page: Asset Save: M_Cloak
+[2020.05.26-20.28.55:426][586]LogContentValidation: Display: Validating Material /Game/_Nedoida/M_Cloak.M_Cloak
+[2020.05.26-20.28.55:428][586]MaterialEditorStats: Base pass shader: 111 instructions
+[2020.05.26-20.28.55:428][586]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 179 instructions
+[2020.05.26-20.28.55:428][586]MaterialEditorStats: Base pass vertex shader: 40 instructions
+[2020.05.26-20.28.55:428][586]MaterialEditorStats: Texture samplers: 3/16
+[2020.05.26-20.29.02:868][240]LogMaterial: Display: Material /Game/_Nedoida/M_Cloak.M_Cloak needed to have new flag set bUsedWithSkeletalMesh !
+[2020.05.26-20.29.02:883][240]LogMaterial: Display: Material /Engine/Transient.M_Cloak needed to have new flag set bUsedWithSkeletalMesh !
+[2020.05.26-20.29.02:889][240]LogMaterial: Display: Missing cached shader map for material M_Cloak, compiling. 
+[2020.05.26-20.29.02:909][240]LogMaterial: Display: Missing cached shader map for material M_Cloak, compiling. 
+[2020.05.26-20.29.02:929][240]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 27
+[2020.05.26-20.29.02:929][240]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 26
+[2020.05.26-20.29.02:929][240]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 25
+[2020.05.26-20.29.03:820][269]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 63
+[2020.05.26-20.29.04:246][307]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 62
+[2020.05.26-20.29.04:397][324]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 61
+[2020.05.26-20.29.04:851][359]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 60
+[2020.05.26-20.29.04:922][365]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 59
+[2020.05.26-20.29.05:794][454]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 58
+[2020.05.26-20.29.06:307][510]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 57
+[2020.05.26-20.29.06:307][510]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 56
+[2020.05.26-20.29.06:511][532]LogMaterialEditor: Saving and Compiling material M_Cloak
+[2020.05.26-20.29.06:528][532]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/_Nedoida/M_Cloak" FILE="D:/Projects/UE Projects/nedoida/Content/_Nedoida/M_Cloak.uasset" SILENT=true
+[2020.05.26-20.29.06:563][532]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 55
+[2020.05.26-20.29.06:563][532]LogSavePackage: Moving 'D:/Projects/UE Projects/nedoida/Saved/M_CloakA7E411DE4CD90E6BC63142BA6C1BBFBA.tmp' to 'D:/Projects/UE Projects/nedoida/Content/_Nedoida/M_Cloak.uasset'
+[2020.05.26-20.29.06:572][532]AssetCheck: New page: Asset Save: M_Cloak
+[2020.05.26-20.29.06:572][532]LogContentValidation: Display: Validating Material /Game/_Nedoida/M_Cloak.M_Cloak
+[2020.05.26-20.29.06:949][573]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 54
+[2020.05.26-20.29.06:965][576]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 53
+[2020.05.26-20.29.07:102][589]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 52
+[2020.05.26-20.29.07:785][656]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 51
+[2020.05.26-20.29.08:015][674]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 50
+[2020.05.26-20.29.08:157][685]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 49
+[2020.05.26-20.29.08:504][719]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 48
+[2020.05.26-20.29.08:718][744]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 47
+[2020.05.26-20.29.08:997][776]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 46
+[2020.05.26-20.29.09:394][822]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 45
+[2020.05.26-20.29.09:559][839]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 44
+[2020.05.26-20.29.09:692][854]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 43
+[2020.05.26-20.29.10:122][903]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 42
+[2020.05.26-20.29.10:261][919]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 41
+[2020.05.26-20.29.10:528][950]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 40
+[2020.05.26-20.29.10:764][977]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 39
+[2020.05.26-20.29.10:893][992]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 29
+[2020.05.26-20.29.11:186][ 25]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 19
+[2020.05.26-20.29.13:191][ 28]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 12
+[2020.05.26-20.29.15:843][300]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 7
+[2020.05.26-20.29.15:855][301]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 4
+[2020.05.26-20.29.16:668][377]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 2
+[2020.05.26-20.29.17:073][420]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 1
+[2020.05.26-20.29.17:695][470]MaterialEditorStats: Base pass shader: 111 instructions
+[2020.05.26-20.29.17:695][470]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 179 instructions
+[2020.05.26-20.29.17:695][470]MaterialEditorStats: Base pass vertex shader: 40 instructions
+[2020.05.26-20.29.17:695][470]MaterialEditorStats: Base pass vertex shader: 86 instructions
+[2020.05.26-20.29.17:695][470]MaterialEditorStats: Texture samplers: 3/16
+[2020.05.26-20.29.39:845][948]LogSlate: Window 'Clothing' being destroyed
+[2020.05.26-20.31.29:563][590]LogMaterial: Display: Missing cached shader map for material M_Cloak, compiling. 
+[2020.05.26-20.31.29:589][590]LogMaterial: Display: Missing cached shader map for material M_Cloak, compiling. 
+[2020.05.26-20.31.29:611][590]LogMaterial: Display: Missing cached shader map for material M_Cloak, compiling. 
+[2020.05.26-20.31.29:641][591]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 42
+[2020.05.26-20.31.29:641][591]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 41
+[2020.05.26-20.31.29:641][591]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 40
+[2020.05.26-20.31.30:137][646]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 39
+[2020.05.26-20.31.30:172][650]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 38
+[2020.05.26-20.31.30:524][691]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 37
+[2020.05.26-20.31.30:592][699]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 36
+[2020.05.26-20.31.30:787][721]LogMaterialEditor: Applying material M_Cloak
+[2020.05.26-20.31.31:181][721]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 35
+[2020.05.26-20.31.31:204][721]LogMaterial: Display: Missing cached shader map for material M_Cloak, compiling. 
+[2020.05.26-20.31.31:244][721]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 42
+[2020.05.26-20.31.31:244][721]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 41
+[2020.05.26-20.31.31:271][721]LogMaterial: Display: Missing cached shader map for material M_Cloak, compiling. 
+[2020.05.26-20.31.31:321][721]LogUObjectHash: Compacting FUObjectHashTables data took   1.44ms
+[2020.05.26-20.31.31:336][721]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2020.05.26-20.31.35:658][721]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 96
+[2020.05.26-20.31.35:658][721]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 95
+[2020.05.26-20.31.35:658][721]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 94
+[2020.05.26-20.31.35:658][721]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 93
+[2020.05.26-20.31.35:658][721]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 92
+[2020.05.26-20.31.35:658][721]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 91
+[2020.05.26-20.31.35:658][721]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 90
+[2020.05.26-20.31.35:658][721]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 89
+[2020.05.26-20.31.35:658][721]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 88
+[2020.05.26-20.31.35:658][721]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 87
+[2020.05.26-20.31.35:658][721]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 86
+[2020.05.26-20.31.35:658][721]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 85
+[2020.05.26-20.31.35:658][721]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 84
+[2020.05.26-20.31.35:658][721]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 83
+[2020.05.26-20.31.35:658][721]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 82
+[2020.05.26-20.31.35:658][721]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 81
+[2020.05.26-20.31.35:658][721]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 80
+[2020.05.26-20.31.35:658][721]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 79
+[2020.05.26-20.31.35:658][721]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 78
+[2020.05.26-20.31.35:658][721]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 77
+[2020.05.26-20.31.35:658][721]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 76
+[2020.05.26-20.31.35:658][721]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 75
+[2020.05.26-20.31.35:658][721]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 74
+[2020.05.26-20.31.35:658][721]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 73
+[2020.05.26-20.31.35:658][721]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 72
+[2020.05.26-20.31.35:658][721]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 71
+[2020.05.26-20.31.35:658][721]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 70
+[2020.05.26-20.31.35:658][721]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 69
+[2020.05.26-20.31.35:658][721]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 68
+[2020.05.26-20.31.35:659][721]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 67
+[2020.05.26-20.31.35:659][721]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 66
+[2020.05.26-20.31.35:659][721]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 65
+[2020.05.26-20.31.35:659][721]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 64
+[2020.05.26-20.31.35:659][721]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 63
+[2020.05.26-20.31.35:659][721]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 62
+[2020.05.26-20.31.35:659][721]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 61
+[2020.05.26-20.31.35:659][721]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 60
+[2020.05.26-20.31.35:659][721]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 59
+[2020.05.26-20.31.35:659][721]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 58
+[2020.05.26-20.31.35:659][721]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 57
+[2020.05.26-20.31.35:659][721]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 56
+[2020.05.26-20.31.35:659][721]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 55
+[2020.05.26-20.31.35:659][721]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 54
+[2020.05.26-20.31.35:659][721]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 44
+[2020.05.26-20.31.35:661][721]TextureStreamingBuild: Display: Compiling optional shaders took 4.334 seconds.
+[2020.05.26-20.31.35:679][721]LogUObjectHash: Compacting FUObjectHashTables data took   0.57ms
+[2020.05.26-20.31.35:946][749]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 34
+[2020.05.26-20.31.39:012][ 98]LogMaterialEditor: Saving and Compiling material M_Cloak
+[2020.05.26-20.31.39:429][ 98]LogMaterial: Display: Missing cached shader map for material M_Cloak, compiling. 
+[2020.05.26-20.31.39:488][ 98]LogMaterial: Display: Missing cached shader map for material M_Cloak, compiling. 
+[2020.05.26-20.31.39:538][ 98]LogUObjectHash: Compacting FUObjectHashTables data took   0.58ms
+[2020.05.26-20.31.39:552][ 98]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2020.05.26-20.31.44:607][ 98]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 122
+[2020.05.26-20.31.44:607][ 98]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 121
+[2020.05.26-20.31.44:607][ 98]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 120
+[2020.05.26-20.31.44:607][ 98]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 119
+[2020.05.26-20.31.44:607][ 98]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 118
+[2020.05.26-20.31.44:607][ 98]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 117
+[2020.05.26-20.31.44:607][ 98]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 116
+[2020.05.26-20.31.44:607][ 98]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 115
+[2020.05.26-20.31.44:607][ 98]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 114
+[2020.05.26-20.31.44:607][ 98]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 113
+[2020.05.26-20.31.44:607][ 98]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 112
+[2020.05.26-20.31.44:607][ 98]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 111
+[2020.05.26-20.31.44:608][ 98]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 110
+[2020.05.26-20.31.44:608][ 98]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 109
+[2020.05.26-20.31.44:608][ 98]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 108
+[2020.05.26-20.31.44:608][ 98]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 107
+[2020.05.26-20.31.44:608][ 98]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 106
+[2020.05.26-20.31.44:608][ 98]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 105
+[2020.05.26-20.31.44:608][ 98]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 104
+[2020.05.26-20.31.44:608][ 98]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 103
+[2020.05.26-20.31.44:608][ 98]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 102
+[2020.05.26-20.31.44:608][ 98]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 101
+[2020.05.26-20.31.44:608][ 98]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 100
+[2020.05.26-20.31.44:608][ 98]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 99
+[2020.05.26-20.31.44:608][ 98]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 98
+[2020.05.26-20.31.44:608][ 98]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 97
+[2020.05.26-20.31.44:608][ 98]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 96
+[2020.05.26-20.31.44:608][ 98]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 95
+[2020.05.26-20.31.44:608][ 98]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 94
+[2020.05.26-20.31.44:608][ 98]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 93
+[2020.05.26-20.31.44:608][ 98]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 92
+[2020.05.26-20.31.44:608][ 98]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 91
+[2020.05.26-20.31.44:608][ 98]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 90
+[2020.05.26-20.31.44:608][ 98]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 89
+[2020.05.26-20.31.44:608][ 98]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 88
+[2020.05.26-20.31.44:608][ 98]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 87
+[2020.05.26-20.31.44:608][ 98]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 86
+[2020.05.26-20.31.44:608][ 98]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 85
+[2020.05.26-20.31.44:608][ 98]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 84
+[2020.05.26-20.31.44:608][ 98]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 83
+[2020.05.26-20.31.44:608][ 98]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 82
+[2020.05.26-20.31.44:608][ 98]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 81
+[2020.05.26-20.31.44:608][ 98]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 80
+[2020.05.26-20.31.44:608][ 98]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 79
+[2020.05.26-20.31.44:608][ 98]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 78
+[2020.05.26-20.31.44:608][ 98]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 68
+[2020.05.26-20.31.44:610][ 98]TextureStreamingBuild: Display: Compiling optional shaders took 5.070 seconds.
+[2020.05.26-20.31.44:628][ 98]LogUObjectHash: Compacting FUObjectHashTables data took   0.57ms
+[2020.05.26-20.31.51:630][ 98]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 58
+[2020.05.26-20.31.51:630][ 98]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 48
+[2020.05.26-20.31.51:630][ 98]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 38
+[2020.05.26-20.31.51:630][ 98]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 28
+[2020.05.26-20.31.51:630][ 98]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 18
+[2020.05.26-20.31.51:630][ 98]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 11
+[2020.05.26-20.31.51:630][ 98]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 7
+[2020.05.26-20.31.51:630][ 98]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 4
+[2020.05.26-20.31.51:630][ 98]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 2
+[2020.05.26-20.31.51:630][ 98]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 1
+[2020.05.26-20.31.51:648][ 98]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/_Nedoida/M_Cloak" FILE="D:/Projects/UE Projects/nedoida/Content/_Nedoida/M_Cloak.uasset" SILENT=true
+[2020.05.26-20.31.51:659][ 98]LogSavePackage: Moving 'D:/Projects/UE Projects/nedoida/Saved/M_Cloak1FA8D83A46EB007EF8DD72B80AF20B8C.tmp' to 'D:/Projects/UE Projects/nedoida/Content/_Nedoida/M_Cloak.uasset'
+[2020.05.26-20.31.51:679][ 98]AssetCheck: New page: Asset Save: M_Cloak
+[2020.05.26-20.31.51:679][ 98]LogContentValidation: Display: Validating Material /Game/_Nedoida/M_Cloak.M_Cloak
+[2020.05.26-20.31.51:683][ 98]MaterialEditorStats: Base pass shader: 116 instructions
+[2020.05.26-20.31.51:683][ 98]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 184 instructions
+[2020.05.26-20.31.51:683][ 98]MaterialEditorStats: Base pass vertex shader: 45 instructions
+[2020.05.26-20.31.51:683][ 98]MaterialEditorStats: Base pass vertex shader: 148 instructions
+[2020.05.26-20.31.51:683][ 98]MaterialEditorStats: Texture samplers: 3/16
+[2020.05.26-20.33.21:855][785]LogContentBrowser: Native class hierarchy updated for 'ClothingSystemEditorInterface' in 0.0003 seconds. Added 1 classes and 0 folders.
+[2020.05.26-20.33.54:241][221]LogSkeletalMesh: Building Skeletal Mesh NedoidaWithCloakTogether...
+[2020.05.26-20.33.58:467][221]LogSkeletalMesh: Section 0: 164 vertices, 3 active bones
+[2020.05.26-20.33.58:467][221]LogSkeletalMesh: Section 1: 2116 vertices, 13 active bones
+[2020.05.26-20.33.58:467][221]LogSkeletalMesh: Section 2: 1548 vertices, 1 active bones
+[2020.05.26-20.33.58:487][221]LogSkeletalMesh: Section 3: 134478 vertices, 1 active bones
+[2020.05.26-20.33.58:488][221]LogSkeletalMesh: Section 4: 264 vertices, 1 active bones
+[2020.05.26-20.33.58:504][221]LogSkeletalMesh: Section 0: Material=0, 124 triangles
+[2020.05.26-20.33.58:504][221]LogSkeletalMesh: Section 1: Material=1, 1992 triangles
+[2020.05.26-20.33.58:504][221]LogSkeletalMesh: Section 2: Material=2, 1920 triangles
+[2020.05.26-20.33.58:504][221]LogSkeletalMesh: Section 3: Material=3, 257184 triangles
+[2020.05.26-20.33.58:504][221]LogSkeletalMesh: Section 4: Material=4, 288 triangles
+[2020.05.26-20.33.58:991][221]LogSkeletalMesh: Built Skeletal Mesh [4.75s] /Game/_Nedoida/Test/NedoidaWithCloakTogether.NedoidaWithCloakTogether
+[2020.05.26-20.33.59:035][221]LogMaterial: Display: Material /Game/_Nedoida/M_Cloak.M_Cloak needed to have new flag set bUsedWithClothing !
+[2020.05.26-20.33.59:035][221]LogMaterial: Display: Material /Engine/Transient.M_Cloak needed to have new flag set bUsedWithClothing !
+[2020.05.26-20.33.59:045][221]LogMaterial: Display: Missing cached shader map for material M_Cloak, compiling. 
+[2020.05.26-20.33.59:072][221]LogMaterial: Display: Missing cached shader map for material M_Cloak, compiling. 
+[2020.05.26-20.33.59:106][221]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 46
+[2020.05.26-20.33.59:106][221]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 45
+[2020.05.26-20.33.59:106][221]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 44
+[2020.05.26-20.33.59:613][260]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 131
+[2020.05.26-20.33.59:613][260]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 130
+[2020.05.26-20.33.59:815][281]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 129
+[2020.05.26-20.34.00:089][313]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 128
+[2020.05.26-20.34.00:439][329]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 127
+[2020.05.26-20.34.00:556][333]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 126
+[2020.05.26-20.34.00:677][342]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 125
+[2020.05.26-20.34.01:316][409]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 124
+[2020.05.26-20.34.01:444][419]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 123
+[2020.05.26-20.34.01:589][430]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 122
+[2020.05.26-20.34.02:542][521]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 121
+[2020.05.26-20.34.02:551][522]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 120
+[2020.05.26-20.34.02:979][559]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 119
+[2020.05.26-20.34.02:979][559]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 118
+[2020.05.26-20.34.03:305][581]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 117
+[2020.05.26-20.34.03:671][603]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 116
+[2020.05.26-20.34.03:827][613]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 115
+[2020.05.26-20.34.03:912][618]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 114
+[2020.05.26-20.34.03:912][618]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 113
+[2020.05.26-20.34.04:294][644]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 112
+[2020.05.26-20.34.04:395][650]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 111
+[2020.05.26-20.34.04:530][658]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 110
+[2020.05.26-20.34.05:016][687]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 109
+[2020.05.26-20.34.05:126][695]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 108
+[2020.05.26-20.34.05:245][701]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 107
+[2020.05.26-20.34.05:685][729]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 106
+[2020.05.26-20.34.06:053][746]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 105
+[2020.05.26-20.34.06:077][747]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 104
+[2020.05.26-20.34.06:530][771]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 103
+[2020.05.26-20.34.06:566][773]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 102
+[2020.05.26-20.34.06:834][791]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 101
+[2020.05.26-20.34.06:834][791]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 100
+[2020.05.26-20.34.07:011][802]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 99
+[2020.05.26-20.34.07:255][828]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 98
+[2020.05.26-20.34.07:418][843]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 97
+[2020.05.26-20.34.07:710][866]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 96
+[2020.05.26-20.34.08:079][903]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 95
+[2020.05.26-20.34.08:202][917]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 94
+[2020.05.26-20.34.08:210][918]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 93
+[2020.05.26-20.34.08:643][957]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 92
+[2020.05.26-20.34.08:854][981]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 91
+[2020.05.26-20.34.09:077][  7]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 90
+[2020.05.26-20.34.09:244][ 26]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 89
+[2020.05.26-20.34.09:527][ 58]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 88
+[2020.05.26-20.34.09:578][ 64]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 78
+[2020.05.26-20.34.10:044][114]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 68
+[2020.05.26-20.34.15:116][686]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 58
+[2020.05.26-20.34.16:212][811]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 48
+[2020.05.26-20.34.16:596][855]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 38
+[2020.05.26-20.34.21:047][332]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 28
+[2020.05.26-20.34.21:910][431]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 18
+[2020.05.26-20.34.23:054][560]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 11
+[2020.05.26-20.34.24:667][732]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 7
+[2020.05.26-20.34.25:537][831]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 4
+[2020.05.26-20.34.26:413][931]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 2
+[2020.05.26-20.34.26:614][954]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 1
+[2020.05.26-20.34.27:400][ 44]MaterialEditorStats: Base pass shader: 116 instructions
+[2020.05.26-20.34.27:400][ 44]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 184 instructions
+[2020.05.26-20.34.27:400][ 44]MaterialEditorStats: Base pass vertex shader: 45 instructions
+[2020.05.26-20.34.27:400][ 44]MaterialEditorStats: Base pass vertex shader: 148 instructions
+[2020.05.26-20.34.27:400][ 44]MaterialEditorStats: Texture samplers: 3/16
+[2020.05.26-20.35.38:306][685]LogUObjectHash: Compacting FUObjectHashTables data took   1.30ms
+[2020.05.26-20.35.38:316][685]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/Test' took 0.032
+[2020.05.26-20.35.38:348][685]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/_Nedoida/Test/NedoidaWithCloakTogether] ([1] browsable assets)...
+[2020.05.26-20.35.38:357][685]OBJ SavePackage:     Rendered thumbnail for [SkeletalMesh /Game/_Nedoida/Test/NedoidaWithCloakTogether.NedoidaWithCloakTogether]
+[2020.05.26-20.35.38:357][685]OBJ SavePackage: Finished generating thumbnails for package [/Game/_Nedoida/Test/NedoidaWithCloakTogether]
+[2020.05.26-20.35.39:115][685]LogSavePackage: Moving 'D:/Projects/UE Projects/nedoida/Saved/NedoidaWithCloakTogether_Auto1E09D19404902D6E84054F1869FA8B144.tmp' to 'D:/Projects/UE Projects/nedoida/Saved/Autosaves/Game/_Nedoida/Test/NedoidaWithCloakTogether_Auto1.uasset'
+[2020.05.26-20.35.39:122][685]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/_Nedoida/Test/NedoidaWithCloakTogether_PhysicsAsset] ([1] browsable assets)...
+[2020.05.26-20.35.39:130][685]OBJ SavePackage:     Rendered thumbnail for [PhysicsAsset /Game/_Nedoida/Test/NedoidaWithCloakTogether_PhysicsAsset.NedoidaWithCloakTogether_PhysicsAsset]
+[2020.05.26-20.35.39:130][685]OBJ SavePackage: Finished generating thumbnails for package [/Game/_Nedoida/Test/NedoidaWithCloakTogether_PhysicsAsset]
+[2020.05.26-20.35.39:138][685]LogSavePackage: Moving 'D:/Projects/UE Projects/nedoida/Saved/NedoidaWithCloakTogether_PhysicsC0AA0538485F1016AE6A559618D15569.tmp' to 'D:/Projects/UE Projects/nedoida/Saved/Autosaves/Game/_Nedoida/Test/NedoidaWithCloakTogether_PhysicsAsset_Auto1.uasset'
+[2020.05.26-20.35.39:139][685]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/_Nedoida/M_Cloak] ([1] browsable assets)...
+[2020.05.26-20.35.39:139][685]OBJ SavePackage: Finished generating thumbnails for package [/Game/_Nedoida/M_Cloak]
+[2020.05.26-20.35.39:139][685]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/_Nedoida/M_Cloak" FILE="D:/Projects/UE Projects/nedoida/Saved/Autosaves/Game/_Nedoida/M_Cloak_Auto1.uasset" SILENT=false AUTOSAVING=true
+[2020.05.26-20.35.39:143][685]LogSavePackage: Moving 'D:/Projects/UE Projects/nedoida/Saved/M_Cloak_Auto1878C2C554DC2BDB9EEEB02BB6A3B46CE.tmp' to 'D:/Projects/UE Projects/nedoida/Saved/Autosaves/Game/_Nedoida/M_Cloak_Auto1.uasset'
+[2020.05.26-20.35.39:143][685]LogFileHelpers: Auto-saving content packages took 0.827
+[2020.05.26-20.39.51:963][444]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2020.05.26-20.39.51:963][444]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2020.05.26-21.15.19:895][141]LogUObjectHash: Compacting FUObjectHashTables data took   2.78ms
+[2020.05.26-21.15.19:902][141]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/Test' took 0.035
+[2020.05.26-21.15.19:902][141]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/_Nedoida/Test/NedoidaWithCloakTogether] ([1] browsable assets)...
+[2020.05.26-21.15.19:911][141]OBJ SavePackage:     Rendered thumbnail for [SkeletalMesh /Game/_Nedoida/Test/NedoidaWithCloakTogether.NedoidaWithCloakTogether]
+[2020.05.26-21.15.19:911][141]OBJ SavePackage: Finished generating thumbnails for package [/Game/_Nedoida/Test/NedoidaWithCloakTogether]
+[2020.05.26-21.15.20:697][141]LogSavePackage: Moving 'D:/Projects/UE Projects/nedoida/Saved/NedoidaWithCloakTogether_Auto2422A303D4EA407D65ED952848000ED5D.tmp' to 'D:/Projects/UE Projects/nedoida/Saved/Autosaves/Game/_Nedoida/Test/NedoidaWithCloakTogether_Auto2.uasset'
+[2020.05.26-21.15.20:698][141]LogFileHelpers: Auto-saving content packages took 0.797
+[2020.05.26-21.16.45:732][910]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/_Nedoida/Test/NedoidaWithCloakTogether" FILE="D:/Projects/UE Projects/nedoida/Content/_Nedoida/Test/NedoidaWithCloakTogether.uasset" SILENT=true
+[2020.05.26-21.16.46:448][910]LogSavePackage: Moving 'D:/Projects/UE Projects/nedoida/Saved/NedoidaWithCloakTogether666C8B4047DF6D9B2B0E13A43FD1FA84.tmp' to 'D:/Projects/UE Projects/nedoida/Content/_Nedoida/Test/NedoidaWithCloakTogether.uasset'
+[2020.05.26-21.16.46:473][910]AssetCheck: New page: Asset Save: NedoidaWithCloakTogether
+[2020.05.26-21.16.46:473][910]LogContentValidation: Display: Validating SkeletalMesh /Game/_Nedoida/Test/NedoidaWithCloakTogether.NedoidaWithCloakTogether
+[2020.05.26-21.16.53:975][667]LogTemp: Repeating last play command: Selected Viewport
+[2020.05.26-21.16.54:013][667]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.05.26-21.16.54:036][667]PIE: New page: PIE session: Test (27 мая 2020 г., 03:16:54)
+[2020.05.26-21.16.54:052][667]LogOnline: OSS: Creating online subsystem instance for: NULL
+[2020.05.26-21.16.54:053][667]LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+[2020.05.26-21.16.54:063][667]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Test
+[2020.05.26-21.16.54:157][667]LogPlayLevel: PIE: StaticDuplicateObject took: (0.094343s)
+[2020.05.26-21.16.54:158][667]LogAIModule: Creating AISystem for world Test
+[2020.05.26-21.16.54:159][667]LogPlayLevel: PIE: World Init took: (0.001787s)
+[2020.05.26-21.16.54:159][667]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Test.Test to /Game/Maps/UEDPIE_0_Test.Test (0.096333s)
+[2020.05.26-21.16.54:180][667]LogUObjectHash: Compacting FUObjectHashTables data took   1.78ms
+[2020.05.26-21.16.54:190][667]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.05.26-21.16.54:190][667]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.05.26-21.16.54:190][667]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.05.26-21.16.54:190][667]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.05.26-21.16.54:190][667]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.05.26-21.16.54:190][667]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.05.26-21.16.54:190][667]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.05.26-21.16.54:190][667]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.05.26-21.16.54:191][667]LogAudio: Display: Using built-in audio occlusion.
+[2020.05.26-21.16.54:191][667]LogAudioMixer: Display: Initializing audio mixer.
+[2020.05.26-21.16.54:204][667]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.05.26-21.16.54:204][667]LogAudioMixer: Display: Name: Наушники (Realtek High Definition Audio)
+[2020.05.26-21.16.54:204][667]LogAudioMixer: Display: Is Default: Yes
+[2020.05.26-21.16.54:204][667]LogAudioMixer: Display: Sample Rate: 48000
+[2020.05.26-21.16.54:204][667]LogAudioMixer: Display: Channel Count Used: 2
+[2020.05.26-21.16.54:204][667]LogAudioMixer: Display: Device Channel Count: 2
+[2020.05.26-21.16.54:204][667]LogAudioMixer: Display: Channel Order:
+[2020.05.26-21.16.54:204][667]LogAudioMixer: Display: 0: FrontLeft
+[2020.05.26-21.16.54:204][667]LogAudioMixer: Display: 1: FrontRight
+[2020.05.26-21.16.54:210][667]LogAudioMixer: Display: Using Audio Device Наушники (Realtek High Definition Audio)
+[2020.05.26-21.16.54:213][667]LogInit: FAudioDevice initialized.
+[2020.05.26-21.16.54:251][667]LogLoad: Game class is 'MyCharacter_GameMode_C'
+[2020.05.26-21.16.54:254][667]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Test.Test up for play (max tick rate 0) at 2020.05.27-00.16.54
+[2020.05.26-21.16.54:257][667]LogWorld: Bringing up level for play took: 0.005053
+[2020.05.26-21.16.54:258][667]LogOnline: OSS: Creating online subsystem instance for: :Context_10
+[2020.05.26-21.16.54:284][667]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0004 seconds. Added 20 classes and 0 folders.
+[2020.05.26-21.16.54:317][667]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Test 1,25
+[2020.05.26-21.17.03:756][782]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.05.26-21.17.03:772][782]LogAudioMixer: Display: Flush succeeded in the source manager command queue (1).
+[2020.05.26-21.17.03:792][782]LogAudioMixer: Display: Flush succeeded the source manager command queue (2).
+[2020.05.26-21.17.03:796][782]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.05.26-21.17.03:796][782]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_Test
+[2020.05.26-21.17.03:797][782]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.05.26-21.17.03:798][782]LogWorld: UWorld::CleanupWorld for Test, bSessionEnded=true, bCleanupResources=true
+[2020.05.26-21.17.03:800][782]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.05.26-21.17.03:810][782]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.05.26-21.17.03:823][782]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.05.26-21.17.03:857][782]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.05.26-21.17.03:860][782]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.05.26-21.17.03:892][782]LogUObjectHash: Compacting FUObjectHashTables data took   1.65ms
+[2020.05.26-21.17.03:908][783]LogPlayLevel: Display: Destroying online subsystem :Context_10
+[2020.05.26-21.17.22:193][886]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/_Nedoida/Test/NedoidaWithCloakTogether" FILE="D:/Projects/UE Projects/nedoida/Content/_Nedoida/Test/NedoidaWithCloakTogether.uasset" SILENT=true
+[2020.05.26-21.17.22:955][886]LogSavePackage: Moving 'D:/Projects/UE Projects/nedoida/Saved/NedoidaWithCloakTogetherA42B61754754BFF67ACBDAB710DFE48B.tmp' to 'D:/Projects/UE Projects/nedoida/Content/_Nedoida/Test/NedoidaWithCloakTogether.uasset'
+[2020.05.26-21.17.22:975][886]AssetCheck: New page: Asset Save: NedoidaWithCloakTogether
+[2020.05.26-21.17.22:975][886]LogContentValidation: Display: Validating SkeletalMesh /Game/_Nedoida/Test/NedoidaWithCloakTogether.NedoidaWithCloakTogether
+[2020.05.26-21.17.24:734][ 78]LogEditorViewport: Clicking Background
+[2020.05.26-21.17.25:259][140]LogEditorViewport: Clicking on Actor (LMB): InstancedFoliageActor (InstancedFoliageActor)
+[2020.05.26-21.17.25:703][190]LogEditorViewport: Clicking on Actor (LMB): SkeletalMeshActor (NedoidaWithCloakTogether)
+[2020.05.26-21.17.30:744][769]LogTemp: Repeating last play command: Selected Viewport
+[2020.05.26-21.17.30:756][769]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.05.26-21.17.30:756][769]PIE: New page: PIE session: Test (27 мая 2020 г., 03:17:30)
+[2020.05.26-21.17.30:756][769]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Test
+[2020.05.26-21.17.30:829][769]LogPlayLevel: PIE: StaticDuplicateObject took: (0.072703s)
+[2020.05.26-21.17.30:830][769]LogAIModule: Creating AISystem for world Test
+[2020.05.26-21.17.30:833][769]LogPlayLevel: PIE: World Init took: (0.003684s)
+[2020.05.26-21.17.30:833][769]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Test.Test to /Game/Maps/UEDPIE_0_Test.Test (0.076522s)
+[2020.05.26-21.17.30:854][769]LogUObjectHash: Compacting FUObjectHashTables data took   1.30ms
+[2020.05.26-21.17.30:861][769]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.05.26-21.17.30:861][769]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.05.26-21.17.30:861][769]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.05.26-21.17.30:861][769]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.05.26-21.17.30:861][769]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.05.26-21.17.30:861][769]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.05.26-21.17.30:861][769]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.05.26-21.17.30:861][769]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.05.26-21.17.30:861][769]LogAudio: Display: Using built-in audio occlusion.
+[2020.05.26-21.17.30:861][769]LogAudioMixer: Display: Initializing audio mixer.
+[2020.05.26-21.17.30:873][769]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.05.26-21.17.30:873][769]LogAudioMixer: Display: Name: Наушники (Realtek High Definition Audio)
+[2020.05.26-21.17.30:873][769]LogAudioMixer: Display: Is Default: Yes
+[2020.05.26-21.17.30:873][769]LogAudioMixer: Display: Sample Rate: 48000
+[2020.05.26-21.17.30:873][769]LogAudioMixer: Display: Channel Count Used: 2
+[2020.05.26-21.17.30:873][769]LogAudioMixer: Display: Device Channel Count: 2
+[2020.05.26-21.17.30:873][769]LogAudioMixer: Display: Channel Order:
+[2020.05.26-21.17.30:873][769]LogAudioMixer: Display: 0: FrontLeft
+[2020.05.26-21.17.30:873][769]LogAudioMixer: Display: 1: FrontRight
+[2020.05.26-21.17.30:879][769]LogAudioMixer: Display: Using Audio Device Наушники (Realtek High Definition Audio)
+[2020.05.26-21.17.30:880][769]LogInit: FAudioDevice initialized.
+[2020.05.26-21.17.30:891][769]LogLoad: Game class is 'MyCharacter_GameMode_C'
+[2020.05.26-21.17.30:894][769]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Test.Test up for play (max tick rate 0) at 2020.05.27-00.17.30
+[2020.05.26-21.17.30:894][769]LogWorld: Bringing up level for play took: 0.002381
+[2020.05.26-21.17.30:894][769]LogOnline: OSS: Creating online subsystem instance for: :Context_11
+[2020.05.26-21.17.30:897][769]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Test -0,17
+[2020.05.26-21.17.33:246][ 44]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.05.26-21.17.33:262][ 44]LogAudioMixer: Display: Flush succeeded in the source manager command queue (1).
+[2020.05.26-21.17.33:292][ 44]LogAudioMixer: Display: Flush succeeded the source manager command queue (2).
+[2020.05.26-21.17.33:293][ 44]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.05.26-21.17.33:293][ 44]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_Test
+[2020.05.26-21.17.33:293][ 44]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.05.26-21.17.33:293][ 44]LogWorld: UWorld::CleanupWorld for Test, bSessionEnded=true, bCleanupResources=true
+[2020.05.26-21.17.33:293][ 44]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.05.26-21.17.33:298][ 44]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.05.26-21.17.33:301][ 44]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.05.26-21.17.33:321][ 44]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.05.26-21.17.33:323][ 44]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.05.26-21.17.33:331][ 44]LogUObjectHash: Compacting FUObjectHashTables data took   1.26ms
+[2020.05.26-21.17.33:347][ 45]LogPlayLevel: Display: Destroying online subsystem :Context_11
+[2020.05.26-21.20.58:584][769]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2020.05.26-21.20.58:584][769]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2020.05.26-21.25.33:197][493]LogUObjectHash: Compacting FUObjectHashTables data took   1.38ms
+[2020.05.26-21.25.33:243][493]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Test" FILE="D:/Projects/UE Projects/nedoida/Saved/Autosaves/Game/Maps/Test_Auto3.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2020.05.26-21.25.33:349][493]LogSavePackage: Moving 'D:/Projects/UE Projects/nedoida/Saved/Test_Auto3F1B40A0346E993E8E71FE5A5B376A019.tmp' to 'D:/Projects/UE Projects/nedoida/Saved/Autosaves/Game/Maps/Test_Auto3.umap'
+[2020.05.26-21.25.33:372][493]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/Test' took 0.197
+[2020.05.26-21.25.33:372][493]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.197
+[2020.05.26-21.25.33:373][493]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/_Nedoida/Test/NedoidaWithCloakTogether] ([1] browsable assets)...
+[2020.05.26-21.25.33:383][493]OBJ SavePackage:     Rendered thumbnail for [SkeletalMesh /Game/_Nedoida/Test/NedoidaWithCloakTogether.NedoidaWithCloakTogether]
+[2020.05.26-21.25.33:383][493]OBJ SavePackage: Finished generating thumbnails for package [/Game/_Nedoida/Test/NedoidaWithCloakTogether]
+[2020.05.26-21.25.34:262][493]LogSavePackage: Moving 'D:/Projects/UE Projects/nedoida/Saved/NedoidaWithCloakTogether_Auto395ECEE164C95AD946DFCC4A3CC624959.tmp' to 'D:/Projects/UE Projects/nedoida/Saved/Autosaves/Game/_Nedoida/Test/NedoidaWithCloakTogether_Auto3.uasset'
+[2020.05.26-21.25.34:263][493]LogFileHelpers: Auto-saving content packages took 0.890
+[2020.05.26-21.30.26:408][371]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2020.05.26-21.30.26:408][371]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2020.05.26-21.39.52:696][823]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/_Nedoida/Test/NedoidaWithCloakTogether" FILE="D:/Projects/UE Projects/nedoida/Content/_Nedoida/Test/NedoidaWithCloakTogether.uasset" SILENT=true
+[2020.05.26-21.39.53:431][823]LogSavePackage: Moving 'D:/Projects/UE Projects/nedoida/Saved/NedoidaWithCloakTogether5B75A2D14B27E210140BBD99BF4F7B84.tmp' to 'D:/Projects/UE Projects/nedoida/Content/_Nedoida/Test/NedoidaWithCloakTogether.uasset'
+[2020.05.26-21.39.53:455][823]AssetCheck: New page: Asset Save: NedoidaWithCloakTogether
+[2020.05.26-21.39.53:455][823]LogContentValidation: Display: Validating SkeletalMesh /Game/_Nedoida/Test/NedoidaWithCloakTogether.NedoidaWithCloakTogether
+[2020.05.26-21.40.12:802][811]Cmd: TRANSACTION UNDO
+[2020.05.26-21.40.12:802][811]LogEditorTransaction: Undo Edit Paint Value
+[2020.05.26-21.40.12:875][811]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_5:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2020.05.26-21.40.12:895][811]LogMaterial: Display: Missing cached shader map for material M_Cloak, compiling. 
+[2020.05.26-21.40.12:925][811]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 46
+[2020.05.26-21.40.12:925][811]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 45
+[2020.05.26-21.40.12:925][811]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 44
+[2020.05.26-21.40.13:348][829]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 43
+[2020.05.26-21.40.13:491][845]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 42
+[2020.05.26-21.40.13:571][854]Cmd: TRANSACTION UNDO
+[2020.05.26-21.40.13:571][854]LogEditorTransaction: Undo Painting Cloth Property Values
+[2020.05.26-21.40.14:199][854]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 41
+[2020.05.26-21.40.14:199][854]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 40
+[2020.05.26-21.40.14:421][854]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_5:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2020.05.26-21.40.14:427][854]LogMaterial: Display: Missing cached shader map for material M_Cloak, compiling. 
+[2020.05.26-21.40.15:291][922]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 46
+[2020.05.26-21.40.15:454][932]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 45
+[2020.05.26-21.40.15:585][941]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 44
+[2020.05.26-21.40.15:585][941]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 43
+[2020.05.26-21.40.15:964][976]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 42
+[2020.05.26-21.40.16:031][980]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 41
+[2020.05.26-21.40.16:088][984]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 40
+[2020.05.26-21.40.16:810][ 59]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 39
+[2020.05.26-21.40.17:515][121]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 38
+[2020.05.26-21.40.17:515][121]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 37
+[2020.05.26-21.40.17:900][165]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 36
+[2020.05.26-21.40.18:090][187]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 35
+[2020.05.26-21.40.18:499][234]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 34
+[2020.05.26-21.40.19:185][305]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 33
+[2020.05.26-21.40.19:330][321]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 32
+[2020.05.26-21.40.19:436][333]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 31
+[2020.05.26-21.40.19:463][333]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/_Nedoida/Test/NedoidaWithCloakTogether" FILE="D:/Projects/UE Projects/nedoida/Content/_Nedoida/Test/NedoidaWithCloakTogether.uasset" SILENT=true
+[2020.05.26-21.40.19:703][333]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 30
+[2020.05.26-21.40.20:228][333]LogSavePackage: Moving 'D:/Projects/UE Projects/nedoida/Saved/NedoidaWithCloakTogetherFA60FF964344DE3106D9499C914B0E41.tmp' to 'D:/Projects/UE Projects/nedoida/Content/_Nedoida/Test/NedoidaWithCloakTogether.uasset'
+[2020.05.26-21.40.20:245][333]AssetCheck: New page: Asset Save: NedoidaWithCloakTogether
+[2020.05.26-21.40.20:245][333]LogContentValidation: Display: Validating SkeletalMesh /Game/_Nedoida/Test/NedoidaWithCloakTogether.NedoidaWithCloakTogether
+[2020.05.26-21.40.20:372][348]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 29
+[2020.05.26-21.40.20:519][365]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 28
+[2020.05.26-21.40.20:938][406]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 27
+[2020.05.26-21.40.21:335][440]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 26
+[2020.05.26-21.40.22:045][506]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 25
+[2020.05.26-21.40.22:390][543]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 24
+[2020.05.26-21.40.22:445][549]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 23
+[2020.05.26-21.40.22:474][550]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/_CoreMechanics/MyCharacter.MyCharacter
+[2020.05.26-21.40.22:752][550]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 22
+[2020.05.26-21.40.22:752][550]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0007 seconds. Added 121 classes and 0 folders.
+[2020.05.26-21.40.23:586][550]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 21
+[2020.05.26-21.40.23:586][550]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 20
+[2020.05.26-21.40.23:586][550]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 19
+[2020.05.26-21.40.23:586][550]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 18
+[2020.05.26-21.40.23:586][550]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 17
+[2020.05.26-21.40.23:586][550]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 16
+[2020.05.26-21.40.23:768][550]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 15
+[2020.05.26-21.40.24:208][551]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 14
+[2020.05.26-21.40.24:208][551]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 13
+[2020.05.26-21.40.24:208][551]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 12
+[2020.05.26-21.40.24:208][551]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 11
+[2020.05.26-21.40.24:208][551]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 10
+[2020.05.26-21.40.24:507][566]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 9
+[2020.05.26-21.40.24:560][569]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 8
+[2020.05.26-21.40.24:902][589]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 7
+[2020.05.26-21.40.24:987][594]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 6
+[2020.05.26-21.40.25:309][613]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 5
+[2020.05.26-21.40.25:652][633]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 4
+[2020.05.26-21.40.25:652][633]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 3
+[2020.05.26-21.40.25:855][645]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 2
+[2020.05.26-21.40.26:212][663]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 1
+[2020.05.26-21.40.26:708][691]MaterialEditorStats: Base pass shader: 116 instructions
+[2020.05.26-21.40.26:708][691]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 184 instructions
+[2020.05.26-21.40.26:708][691]MaterialEditorStats: Base pass vertex shader: 45 instructions
+[2020.05.26-21.40.26:708][691]MaterialEditorStats: Base pass vertex shader: 148 instructions
+[2020.05.26-21.40.26:708][691]MaterialEditorStats: Texture samplers: 2/16
+[2020.05.26-21.40.26:822][697]LogRenderer: Reallocating scene render targets to support 1260x896 Format 10 NumSamples 1 (Frame:1).
+[2020.05.26-21.40.34:621][530]LogTemp: Repeating last play command: Selected Viewport
+[2020.05.26-21.40.34:639][530]BlueprintLog: New page: Pre-Play auto-recompile
+[2020.05.26-21.40.34:667][530]LogPlayLevel: [PlayLevel] Compiling MyCharacter before play...
+[2020.05.26-21.40.35:281][530]LogUObjectHash: Compacting FUObjectHashTables data took   3.20ms
+[2020.05.26-21.40.35:293][530]LogPlayLevel: PlayLevel: Blueprint regeneration took 653 ms (1 blueprints)
+[2020.05.26-21.40.35:293][530]PIE: New page: PIE session: Test (27 мая 2020 г., 03:40:35)
+[2020.05.26-21.40.35:294][530]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Test
+[2020.05.26-21.40.35:373][530]LogPlayLevel: PIE: StaticDuplicateObject took: (0.080364s)
+[2020.05.26-21.40.35:374][530]LogAIModule: Creating AISystem for world Test
+[2020.05.26-21.40.35:374][530]LogPlayLevel: PIE: World Init took: (0.000800s)
+[2020.05.26-21.40.35:374][530]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Test.Test to /Game/Maps/UEDPIE_0_Test.Test (0.081308s)
+[2020.05.26-21.40.35:403][530]LogUObjectHash: Compacting FUObjectHashTables data took   1.97ms
+[2020.05.26-21.40.35:404][530]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.05.26-21.40.35:405][530]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.05.26-21.40.35:405][530]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.05.26-21.40.35:405][530]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.05.26-21.40.35:405][530]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.05.26-21.40.35:405][530]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.05.26-21.40.35:405][530]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.05.26-21.40.35:405][530]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.05.26-21.40.35:405][530]LogAudio: Display: Using built-in audio occlusion.
+[2020.05.26-21.40.35:405][530]LogAudioMixer: Display: Initializing audio mixer.
+[2020.05.26-21.40.35:418][530]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.05.26-21.40.35:418][530]LogAudioMixer: Display: Name: Наушники (Realtek High Definition Audio)
+[2020.05.26-21.40.35:418][530]LogAudioMixer: Display: Is Default: Yes
+[2020.05.26-21.40.35:418][530]LogAudioMixer: Display: Sample Rate: 48000
+[2020.05.26-21.40.35:418][530]LogAudioMixer: Display: Channel Count Used: 2
+[2020.05.26-21.40.35:418][530]LogAudioMixer: Display: Device Channel Count: 2
+[2020.05.26-21.40.35:418][530]LogAudioMixer: Display: Channel Order:
+[2020.05.26-21.40.35:418][530]LogAudioMixer: Display: 0: FrontLeft
+[2020.05.26-21.40.35:418][530]LogAudioMixer: Display: 1: FrontRight
+[2020.05.26-21.40.35:424][530]LogAudioMixer: Display: Using Audio Device Наушники (Realtek High Definition Audio)
+[2020.05.26-21.40.35:427][530]LogInit: FAudioDevice initialized.
+[2020.05.26-21.40.35:454][530]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.05.26-21.40.35:457][530]LogLoad: Game class is 'MyCharacter_GameMode_C'
+[2020.05.26-21.40.35:460][530]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Test.Test up for play (max tick rate 0) at 2020.05.27-00.40.35
+[2020.05.26-21.40.35:460][530]LogWorld: Bringing up level for play took: 0.002837
+[2020.05.26-21.40.35:461][530]LogOnline: OSS: Creating online subsystem instance for: :Context_14
+[2020.05.26-21.40.35:466][530]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Test 0,399
+[2020.05.26-21.40.35:514][531]LogRenderer: Reallocating scene render targets to support 1920x1080 Format 10 NumSamples 1 (Frame:1).
+[2020.05.26-21.41.03:036][451]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.05.26-21.41.03:054][451]LogAudioMixer: Display: Flush succeeded in the source manager command queue (1).
+[2020.05.26-21.41.03:074][451]LogAudioMixer: Display: Flush succeeded the source manager command queue (2).
+[2020.05.26-21.41.03:074][451]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.05.26-21.41.03:074][451]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_Test
+[2020.05.26-21.41.03:089][451]LogSlate: Window 'nedoida Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2020.05.26-21.41.03:098][451]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.05.26-21.41.03:098][451]LogWorld: UWorld::CleanupWorld for Test, bSessionEnded=true, bCleanupResources=true
+[2020.05.26-21.41.03:099][451]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.05.26-21.41.03:106][451]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.05.26-21.41.03:111][451]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.05.26-21.41.03:140][451]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.05.26-21.41.03:198][451]LogUObjectHash: Compacting FUObjectHashTables data took   2.08ms
+[2020.05.26-21.41.03:206][452]LogPlayLevel: Display: Destroying online subsystem :Context_14
+[2020.05.26-21.41.05:625][732]LogEditorViewport: Clicking on Actor (LMB): SkeletalMeshActor (NedoidaWithCloakTogether)
+[2020.05.26-21.41.09:090][136]Cmd: DELETE
+[2020.05.26-21.41.09:090][136]Cmd: ACTOR DELETE
+[2020.05.26-21.41.09:130][136]LogEditorActor: Deleted Actor: SkeletalMeshActor
+[2020.05.26-21.41.09:157][136]LogUObjectHash: Compacting FUObjectHashTables data took   0.81ms
+[2020.05.26-21.41.09:162][136]LogEditorActor: Deleted 1 Actors (0.049 secs)
+[2020.05.26-21.41.10:105][248]LogTemp: Repeating last play command: Selected Viewport
+[2020.05.26-21.41.10:121][248]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.05.26-21.41.10:121][248]PIE: New page: PIE session: Test (27 мая 2020 г., 03:41:10)
+[2020.05.26-21.41.10:122][248]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Test
+[2020.05.26-21.41.10:195][248]LogPlayLevel: PIE: StaticDuplicateObject took: (0.073888s)
+[2020.05.26-21.41.10:196][248]LogAIModule: Creating AISystem for world Test
+[2020.05.26-21.41.10:196][248]LogPlayLevel: PIE: World Init took: (0.000743s)
+[2020.05.26-21.41.10:196][248]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Test.Test to /Game/Maps/UEDPIE_0_Test.Test (0.074754s)
+[2020.05.26-21.41.10:224][248]LogUObjectHash: Compacting FUObjectHashTables data took   1.96ms
+[2020.05.26-21.41.10:225][248]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.05.26-21.41.10:225][248]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.05.26-21.41.10:225][248]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.05.26-21.41.10:225][248]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.05.26-21.41.10:225][248]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.05.26-21.41.10:225][248]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.05.26-21.41.10:225][248]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.05.26-21.41.10:225][248]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.05.26-21.41.10:226][248]LogAudio: Display: Using built-in audio occlusion.
+[2020.05.26-21.41.10:226][248]LogAudioMixer: Display: Initializing audio mixer.
+[2020.05.26-21.41.10:238][248]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.05.26-21.41.10:238][248]LogAudioMixer: Display: Name: Наушники (Realtek High Definition Audio)
+[2020.05.26-21.41.10:238][248]LogAudioMixer: Display: Is Default: Yes
+[2020.05.26-21.41.10:238][248]LogAudioMixer: Display: Sample Rate: 48000
+[2020.05.26-21.41.10:238][248]LogAudioMixer: Display: Channel Count Used: 2
+[2020.05.26-21.41.10:238][248]LogAudioMixer: Display: Device Channel Count: 2
+[2020.05.26-21.41.10:238][248]LogAudioMixer: Display: Channel Order:
+[2020.05.26-21.41.10:238][248]LogAudioMixer: Display: 0: FrontLeft
+[2020.05.26-21.41.10:238][248]LogAudioMixer: Display: 1: FrontRight
+[2020.05.26-21.41.10:244][248]LogAudioMixer: Display: Using Audio Device Наушники (Realtek High Definition Audio)
+[2020.05.26-21.41.10:246][248]LogInit: FAudioDevice initialized.
+[2020.05.26-21.41.10:254][248]LogLoad: Game class is 'MyCharacter_GameMode_C'
+[2020.05.26-21.41.10:255][248]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Test.Test up for play (max tick rate 0) at 2020.05.27-00.41.10
+[2020.05.26-21.41.10:255][248]LogWorld: Bringing up level for play took: 0.001299
+[2020.05.26-21.41.10:255][248]LogOnline: OSS: Creating online subsystem instance for: :Context_15
+[2020.05.26-21.41.10:259][248]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Test -0,808
+[2020.05.26-21.41.21:849][635]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.05.26-21.41.21:853][635]LogAudioMixer: Display: Flush succeeded in the source manager command queue (1).
+[2020.05.26-21.41.21:873][635]LogAudioMixer: Display: Flush succeeded the source manager command queue (2).
+[2020.05.26-21.41.21:873][635]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.05.26-21.41.21:873][635]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_Test
+[2020.05.26-21.41.21:873][635]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.05.26-21.41.21:873][635]LogWorld: UWorld::CleanupWorld for Test, bSessionEnded=true, bCleanupResources=true
+[2020.05.26-21.41.21:874][635]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.05.26-21.41.21:878][635]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.05.26-21.41.21:882][635]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.05.26-21.41.21:910][635]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.05.26-21.41.21:912][635]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.05.26-21.41.21:940][635]LogUObjectHash: Compacting FUObjectHashTables data took   2.00ms
+[2020.05.26-21.41.21:958][636]LogPlayLevel: Display: Destroying online subsystem :Context_15
+[2020.05.26-21.41.48:141][766]LogUObjectHash: Compacting FUObjectHashTables data took   0.73ms
+[2020.05.26-21.41.48:142][766]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Test" FILE="D:/Projects/UE Projects/nedoida/Saved/Autosaves/Game/Maps/Test_Auto4.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2020.05.26-21.41.48:230][766]LogSavePackage: Moving 'D:/Projects/UE Projects/nedoida/Saved/Test_Auto4B490332E4F7D4863723EAD99CBC5C0D2.tmp' to 'D:/Projects/UE Projects/nedoida/Saved/Autosaves/Game/Maps/Test_Auto4.umap'
+[2020.05.26-21.41.48:232][766]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/Test' took 0.118
+[2020.05.26-21.41.48:232][766]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.118
+[2020.05.26-21.41.48:233][766]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/_CoreMechanics/MyCharacter] ([1] browsable assets)...
+[2020.05.26-21.41.48:245][766]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/_CoreMechanics/MyCharacter.MyCharacter]
+[2020.05.26-21.41.48:245][766]OBJ SavePackage: Finished generating thumbnails for package [/Game/_CoreMechanics/MyCharacter]
+[2020.05.26-21.41.48:245][766]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/_CoreMechanics/MyCharacter" FILE="D:/Projects/UE Projects/nedoida/Saved/Autosaves/Game/_CoreMechanics/MyCharacter_Auto4.uasset" SILENT=false AUTOSAVING=true
+[2020.05.26-21.41.48:459][766]LogSavePackage: Moving 'D:/Projects/UE Projects/nedoida/Saved/MyCharacter_Auto4B549002349158EFCAC3A4C86341C46E0.tmp' to 'D:/Projects/UE Projects/nedoida/Saved/Autosaves/Game/_CoreMechanics/MyCharacter_Auto4.uasset'
+[2020.05.26-21.41.48:473][766]LogFileHelpers: Auto-saving content packages took 0.240
+[2020.05.26-21.41.51:289][827]LogTemp: Repeating last play command: Selected Viewport
+[2020.05.26-21.41.51:305][827]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.05.26-21.41.51:305][827]PIE: New page: PIE session: Test (27 мая 2020 г., 03:41:51)
+[2020.05.26-21.41.51:306][827]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Test
+[2020.05.26-21.41.51:380][827]LogPlayLevel: PIE: StaticDuplicateObject took: (0.074280s)
+[2020.05.26-21.41.51:381][827]LogAIModule: Creating AISystem for world Test
+[2020.05.26-21.41.51:381][827]LogPlayLevel: PIE: World Init took: (0.000765s)
+[2020.05.26-21.41.51:381][827]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Test.Test to /Game/Maps/UEDPIE_0_Test.Test (0.075155s)
+[2020.05.26-21.41.51:409][827]LogUObjectHash: Compacting FUObjectHashTables data took   1.93ms
+[2020.05.26-21.41.51:409][827]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.05.26-21.41.51:409][827]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.05.26-21.41.51:409][827]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.05.26-21.41.51:409][827]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.05.26-21.41.51:409][827]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.05.26-21.41.51:409][827]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.05.26-21.41.51:409][827]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.05.26-21.41.51:409][827]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.05.26-21.41.51:410][827]LogAudio: Display: Using built-in audio occlusion.
+[2020.05.26-21.41.51:410][827]LogAudioMixer: Display: Initializing audio mixer.
+[2020.05.26-21.41.51:422][827]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.05.26-21.41.51:422][827]LogAudioMixer: Display: Name: Наушники (Realtek High Definition Audio)
+[2020.05.26-21.41.51:422][827]LogAudioMixer: Display: Is Default: Yes
+[2020.05.26-21.41.51:422][827]LogAudioMixer: Display: Sample Rate: 48000
+[2020.05.26-21.41.51:422][827]LogAudioMixer: Display: Channel Count Used: 2
+[2020.05.26-21.41.51:422][827]LogAudioMixer: Display: Device Channel Count: 2
+[2020.05.26-21.41.51:422][827]LogAudioMixer: Display: Channel Order:
+[2020.05.26-21.41.51:422][827]LogAudioMixer: Display: 0: FrontLeft
+[2020.05.26-21.41.51:422][827]LogAudioMixer: Display: 1: FrontRight
+[2020.05.26-21.41.51:428][827]LogAudioMixer: Display: Using Audio Device Наушники (Realtek High Definition Audio)
+[2020.05.26-21.41.51:429][827]LogInit: FAudioDevice initialized.
+[2020.05.26-21.41.51:437][827]LogLoad: Game class is 'MyCharacter_GameMode_C'
+[2020.05.26-21.41.51:439][827]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Test.Test up for play (max tick rate 0) at 2020.05.27-00.41.51
+[2020.05.26-21.41.51:439][827]LogWorld: Bringing up level for play took: 0.001422
+[2020.05.26-21.41.51:439][827]LogOnline: OSS: Creating online subsystem instance for: :Context_16
+[2020.05.26-21.41.51:443][827]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Test 0,376
+[2020.05.26-21.41.56:641][447]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.05.26-21.41.56:653][447]LogAudioMixer: Display: Flush succeeded in the source manager command queue (1).
+[2020.05.26-21.41.56:674][447]LogAudioMixer: Display: Flush succeeded the source manager command queue (2).
+[2020.05.26-21.41.56:674][447]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.05.26-21.41.56:674][447]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_Test
+[2020.05.26-21.41.56:674][447]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.05.26-21.41.56:674][447]LogWorld: UWorld::CleanupWorld for Test, bSessionEnded=true, bCleanupResources=true
+[2020.05.26-21.41.56:675][447]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.05.26-21.41.56:683][447]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.05.26-21.41.56:687][447]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.05.26-21.41.56:714][447]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.05.26-21.41.56:717][447]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.05.26-21.41.56:731][447]LogUObjectHash: Compacting FUObjectHashTables data took   1.99ms
+[2020.05.26-21.41.56:748][448]LogPlayLevel: Display: Destroying online subsystem :Context_16
+[2020.05.26-21.42.05:421][474]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Test" FILE="D:/Projects/UE Projects/nedoida/Content/Maps/Test.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2020.05.26-21.42.05:449][474]LogUObjectHash: Compacting FUObjectHashTables data took   0.81ms
+[2020.05.26-21.42.05:529][474]LogSavePackage: Moving 'D:/Projects/UE Projects/nedoida/Saved/TestFC41EA2741A8D8CC5525A9A3814A2BFD.tmp' to 'D:/Projects/UE Projects/nedoida/Content/Maps/Test.umap'
+[2020.05.26-21.42.05:555][474]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Test_BuiltData" FILE="D:/Projects/UE Projects/nedoida/Content/Maps/Test_BuiltData.uasset" SILENT=true
+[2020.05.26-21.42.05:749][474]LogSavePackage: Moving 'D:/Projects/UE Projects/nedoida/Saved/Test_BuiltDataC830C1174B76CD8832B126A665ACBF3F.tmp' to 'D:/Projects/UE Projects/nedoida/Content/Maps/Test_BuiltData.uasset'
+[2020.05.26-21.42.05:763][474]AssetCheck: New page: Asset Save: multiple assets
+[2020.05.26-21.42.05:763][474]LogContentValidation: Display: Validating World /Game/Maps/Test.Test
+[2020.05.26-21.42.05:763][474]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Maps/Test_BuiltData.Test_BuiltData
+[2020.05.26-21.42.07:821][716]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/_CoreMechanics/MyCharacter" FILE="D:/Projects/UE Projects/nedoida/Content/_CoreMechanics/MyCharacter.uasset" SILENT=true
+[2020.05.26-21.42.07:918][716]LogSavePackage: Moving 'D:/Projects/UE Projects/nedoida/Saved/MyCharacter131B8118467C79F212A6E0AE730C1D76.tmp' to 'D:/Projects/UE Projects/nedoida/Content/_CoreMechanics/MyCharacter.uasset'
+[2020.05.26-21.42.07:928][716]AssetCheck: New page: Asset Save: MyCharacter
+[2020.05.26-21.42.07:928][716]LogContentValidation: Display: Validating Blueprint /Game/_CoreMechanics/MyCharacter.MyCharacter
+[2020.05.26-21.42.10:573][ 28]LogTemp: Repeating last play command: Selected Viewport
+[2020.05.26-21.42.10:586][ 28]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.05.26-21.42.10:586][ 28]PIE: New page: PIE session: Test (27 мая 2020 г., 03:42:10)
+[2020.05.26-21.42.10:587][ 28]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Test
+[2020.05.26-21.42.10:661][ 28]LogPlayLevel: PIE: StaticDuplicateObject took: (0.074157s)
+[2020.05.26-21.42.10:662][ 28]LogAIModule: Creating AISystem for world Test
+[2020.05.26-21.42.10:662][ 28]LogPlayLevel: PIE: World Init took: (0.000795s)
+[2020.05.26-21.42.10:662][ 28]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Test.Test to /Game/Maps/UEDPIE_0_Test.Test (0.075081s)
+[2020.05.26-21.42.10:691][ 28]LogUObjectHash: Compacting FUObjectHashTables data took   2.17ms
+[2020.05.26-21.42.10:692][ 28]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.05.26-21.42.10:692][ 28]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.05.26-21.42.10:692][ 28]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.05.26-21.42.10:692][ 28]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.05.26-21.42.10:692][ 28]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.05.26-21.42.10:692][ 28]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.05.26-21.42.10:692][ 28]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.05.26-21.42.10:692][ 28]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.05.26-21.42.10:693][ 28]LogAudio: Display: Using built-in audio occlusion.
+[2020.05.26-21.42.10:693][ 28]LogAudioMixer: Display: Initializing audio mixer.
+[2020.05.26-21.42.10:704][ 28]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.05.26-21.42.10:704][ 28]LogAudioMixer: Display: Name: Наушники (Realtek High Definition Audio)
+[2020.05.26-21.42.10:704][ 28]LogAudioMixer: Display: Is Default: Yes
+[2020.05.26-21.42.10:704][ 28]LogAudioMixer: Display: Sample Rate: 48000
+[2020.05.26-21.42.10:704][ 28]LogAudioMixer: Display: Channel Count Used: 2
+[2020.05.26-21.42.10:704][ 28]LogAudioMixer: Display: Device Channel Count: 2
+[2020.05.26-21.42.10:704][ 28]LogAudioMixer: Display: Channel Order:
+[2020.05.26-21.42.10:704][ 28]LogAudioMixer: Display: 0: FrontLeft
+[2020.05.26-21.42.10:704][ 28]LogAudioMixer: Display: 1: FrontRight
+[2020.05.26-21.42.10:710][ 28]LogAudioMixer: Display: Using Audio Device Наушники (Realtek High Definition Audio)
+[2020.05.26-21.42.10:712][ 28]LogInit: FAudioDevice initialized.
+[2020.05.26-21.42.10:735][ 28]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.05.26-21.42.10:735][ 28]LogLoad: Game class is 'MyCharacter_GameMode_C'
+[2020.05.26-21.42.10:737][ 28]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Test.Test up for play (max tick rate 0) at 2020.05.27-00.42.10
+[2020.05.26-21.42.10:737][ 28]LogWorld: Bringing up level for play took: 0.001521
+[2020.05.26-21.42.10:737][ 28]LogOnline: OSS: Creating online subsystem instance for: :Context_17
+[2020.05.26-21.42.10:743][ 28]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Test -0,324
+[2020.05.26-21.42.26:495][775]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.05.26-21.42.26:514][775]LogAudioMixer: Display: Flush succeeded in the source manager command queue (1).
+[2020.05.26-21.42.26:533][775]LogAudioMixer: Display: Flush succeeded the source manager command queue (2).
+[2020.05.26-21.42.26:533][775]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.05.26-21.42.26:533][775]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_Test
+[2020.05.26-21.42.26:545][775]LogSlate: Window 'nedoida Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2020.05.26-21.42.26:548][775]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.05.26-21.42.26:548][775]LogWorld: UWorld::CleanupWorld for Test, bSessionEnded=true, bCleanupResources=true
+[2020.05.26-21.42.26:548][775]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.05.26-21.42.26:558][775]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.05.26-21.42.26:562][775]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.05.26-21.42.26:591][775]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.05.26-21.42.26:623][775]LogUObjectHash: Compacting FUObjectHashTables data took   2.21ms
+[2020.05.26-21.42.26:632][776]LogPlayLevel: Display: Destroying online subsystem :Context_17
+[2020.05.26-21.43.01:973][459]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2020.05.26-21.43.33:433][354]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/_Nedoida/Test/NedoidaWithCloakTogether" FILE="D:/Projects/UE Projects/nedoida/Content/_Nedoida/Test/NedoidaWithCloakTogether.uasset" SILENT=true
+[2020.05.26-21.43.34:154][354]LogSavePackage: Moving 'D:/Projects/UE Projects/nedoida/Saved/NedoidaWithCloakTogetherD53D7AC949A9533AA0D1B39B717752DA.tmp' to 'D:/Projects/UE Projects/nedoida/Content/_Nedoida/Test/NedoidaWithCloakTogether.uasset'
+[2020.05.26-21.43.34:177][354]AssetCheck: New page: Asset Save: NedoidaWithCloakTogether
+[2020.05.26-21.43.34:177][354]LogContentValidation: Display: Validating SkeletalMesh /Game/_Nedoida/Test/NedoidaWithCloakTogether.NedoidaWithCloakTogether
+[2020.05.26-21.43.38:339][786]LogTemp: Repeating last play command: Selected Viewport
+[2020.05.26-21.43.38:353][786]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.05.26-21.43.38:353][786]PIE: New page: PIE session: Test (27 мая 2020 г., 03:43:38)
+[2020.05.26-21.43.38:353][786]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Test
+[2020.05.26-21.43.38:430][786]LogPlayLevel: PIE: StaticDuplicateObject took: (0.076714s)
+[2020.05.26-21.43.38:431][786]LogAIModule: Creating AISystem for world Test
+[2020.05.26-21.43.38:431][786]LogPlayLevel: PIE: World Init took: (0.000820s)
+[2020.05.26-21.43.38:431][786]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Test.Test to /Game/Maps/UEDPIE_0_Test.Test (0.077645s)
+[2020.05.26-21.43.38:460][786]LogUObjectHash: Compacting FUObjectHashTables data took   2.09ms
+[2020.05.26-21.43.38:468][786]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.05.26-21.43.38:468][786]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.05.26-21.43.38:468][786]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.05.26-21.43.38:468][786]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.05.26-21.43.38:468][786]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.05.26-21.43.38:468][786]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.05.26-21.43.38:468][786]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.05.26-21.43.38:468][786]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.05.26-21.43.38:468][786]LogAudio: Display: Using built-in audio occlusion.
+[2020.05.26-21.43.38:468][786]LogAudioMixer: Display: Initializing audio mixer.
+[2020.05.26-21.43.38:480][786]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.05.26-21.43.38:480][786]LogAudioMixer: Display: Name: Наушники (Realtek High Definition Audio)
+[2020.05.26-21.43.38:480][786]LogAudioMixer: Display: Is Default: Yes
+[2020.05.26-21.43.38:480][786]LogAudioMixer: Display: Sample Rate: 48000
+[2020.05.26-21.43.38:480][786]LogAudioMixer: Display: Channel Count Used: 2
+[2020.05.26-21.43.38:480][786]LogAudioMixer: Display: Device Channel Count: 2
+[2020.05.26-21.43.38:480][786]LogAudioMixer: Display: Channel Order:
+[2020.05.26-21.43.38:480][786]LogAudioMixer: Display: 0: FrontLeft
+[2020.05.26-21.43.38:480][786]LogAudioMixer: Display: 1: FrontRight
+[2020.05.26-21.43.38:486][786]LogAudioMixer: Display: Using Audio Device Наушники (Realtek High Definition Audio)
+[2020.05.26-21.43.38:488][786]LogInit: FAudioDevice initialized.
+[2020.05.26-21.43.38:496][786]LogLoad: Game class is 'MyCharacter_GameMode_C'
+[2020.05.26-21.43.38:498][786]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Test.Test up for play (max tick rate 0) at 2020.05.27-00.43.38
+[2020.05.26-21.43.38:498][786]LogWorld: Bringing up level for play took: 0.001581
+[2020.05.26-21.43.38:498][786]LogOnline: OSS: Creating online subsystem instance for: :Context_18
+[2020.05.26-21.43.38:502][786]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Test -0,565
+[2020.05.26-21.43.40:200][986]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.05.26-21.43.40:213][986]LogAudioMixer: Display: Flush succeeded in the source manager command queue (1).
+[2020.05.26-21.43.40:233][986]LogAudioMixer: Display: Flush succeeded the source manager command queue (2).
+[2020.05.26-21.43.40:233][986]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.05.26-21.43.40:233][986]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_Test
+[2020.05.26-21.43.40:233][986]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.05.26-21.43.40:234][986]LogWorld: UWorld::CleanupWorld for Test, bSessionEnded=true, bCleanupResources=true
+[2020.05.26-21.43.40:234][986]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.05.26-21.43.40:240][986]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.05.26-21.43.40:244][986]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.05.26-21.43.40:273][986]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.05.26-21.43.40:275][986]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.05.26-21.43.40:283][986]LogUObjectHash: Compacting FUObjectHashTables data took   1.98ms
+[2020.05.26-21.43.40:300][987]LogPlayLevel: Display: Destroying online subsystem :Context_18
+[2020.05.26-21.45.26:336][968]LogAssetEditorSubsystem: Opening Asset editor for PhysicsAsset /Game/_Nedoida/Test/NedoidaWithCloakTogether_PhysicsAsset.NedoidaWithCloakTogether_PhysicsAsset
+[2020.05.26-21.45.26:367][968]LogContentBrowser: Native class hierarchy updated for 'PhysicsAssetEditor' in 0.0003 seconds. Added 7 classes and 3 folders.
+[2020.05.26-21.45.26:386][968]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_11:PersistentLevel.AnimationEditorPreviewActor_0.PhysicsAssetEditorSkeletalMeshComponent_0) Already registered. Aborting.
+[2020.05.26-21.45.59:872][667]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2020.05.26-21.46.11:275][908]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/_Nedoida/Test/NedoidaWithCloakTogether" FILE="D:/Projects/UE Projects/nedoida/Content/_Nedoida/Test/NedoidaWithCloakTogether.uasset" SILENT=true
+[2020.05.26-21.46.12:015][908]LogSavePackage: Moving 'D:/Projects/UE Projects/nedoida/Saved/NedoidaWithCloakTogether4F44D710430C2A4DFC0E168ECD44515D.tmp' to 'D:/Projects/UE Projects/nedoida/Content/_Nedoida/Test/NedoidaWithCloakTogether.uasset'
+[2020.05.26-21.46.12:041][908]AssetCheck: New page: Asset Save: NedoidaWithCloakTogether
+[2020.05.26-21.46.12:041][908]LogContentValidation: Display: Validating SkeletalMesh /Game/_Nedoida/Test/NedoidaWithCloakTogether.NedoidaWithCloakTogether
+[2020.05.26-21.46.13:340][ 60]LogTemp: Repeating last play command: Selected Viewport
+[2020.05.26-21.46.13:355][ 60]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.05.26-21.46.13:355][ 60]PIE: New page: PIE session: Test (27 мая 2020 г., 03:46:13)
+[2020.05.26-21.46.13:356][ 60]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Test
+[2020.05.26-21.46.13:428][ 60]LogPlayLevel: PIE: StaticDuplicateObject took: (0.073622s)
+[2020.05.26-21.46.13:429][ 60]LogAIModule: Creating AISystem for world Test
+[2020.05.26-21.46.13:429][ 60]LogPlayLevel: PIE: World Init took: (0.000830s)
+[2020.05.26-21.46.13:429][ 60]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Test.Test to /Game/Maps/UEDPIE_0_Test.Test (0.074566s)
+[2020.05.26-21.46.13:481][ 60]LogUObjectHash: Compacting FUObjectHashTables data took   3.37ms
+[2020.05.26-21.46.13:493][ 60]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.05.26-21.46.13:493][ 60]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.05.26-21.46.13:493][ 60]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.05.26-21.46.13:493][ 60]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.05.26-21.46.13:493][ 60]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.05.26-21.46.13:493][ 60]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.05.26-21.46.13:493][ 60]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.05.26-21.46.13:493][ 60]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.05.26-21.46.13:494][ 60]LogAudio: Display: Using built-in audio occlusion.
+[2020.05.26-21.46.13:494][ 60]LogAudioMixer: Display: Initializing audio mixer.
+[2020.05.26-21.46.13:506][ 60]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.05.26-21.46.13:506][ 60]LogAudioMixer: Display: Name: Наушники (Realtek High Definition Audio)
+[2020.05.26-21.46.13:506][ 60]LogAudioMixer: Display: Is Default: Yes
+[2020.05.26-21.46.13:506][ 60]LogAudioMixer: Display: Sample Rate: 48000
+[2020.05.26-21.46.13:506][ 60]LogAudioMixer: Display: Channel Count Used: 2
+[2020.05.26-21.46.13:506][ 60]LogAudioMixer: Display: Device Channel Count: 2
+[2020.05.26-21.46.13:506][ 60]LogAudioMixer: Display: Channel Order:
+[2020.05.26-21.46.13:506][ 60]LogAudioMixer: Display: 0: FrontLeft
+[2020.05.26-21.46.13:506][ 60]LogAudioMixer: Display: 1: FrontRight
+[2020.05.26-21.46.13:512][ 60]LogAudioMixer: Display: Using Audio Device Наушники (Realtek High Definition Audio)
+[2020.05.26-21.46.13:514][ 60]LogInit: FAudioDevice initialized.
+[2020.05.26-21.46.13:519][ 60]LogLoad: Game class is 'MyCharacter_GameMode_C'
+[2020.05.26-21.46.13:520][ 60]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Test.Test up for play (max tick rate 0) at 2020.05.27-00.46.13
+[2020.05.26-21.46.13:521][ 60]LogWorld: Bringing up level for play took: 0.001381
+[2020.05.26-21.46.13:521][ 60]LogOnline: OSS: Creating online subsystem instance for: :Context_20
+[2020.05.26-21.46.13:525][ 60]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Test 0,457
+[2020.05.26-21.46.14:654][192]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.05.26-21.46.14:664][192]LogAudioMixer: Display: Flush succeeded in the source manager command queue (1).
+[2020.05.26-21.46.14:684][192]LogAudioMixer: Display: Flush succeeded the source manager command queue (2).
+[2020.05.26-21.46.14:684][192]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.05.26-21.46.14:685][192]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_Test
+[2020.05.26-21.46.14:685][192]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.05.26-21.46.14:685][192]LogWorld: UWorld::CleanupWorld for Test, bSessionEnded=true, bCleanupResources=true
+[2020.05.26-21.46.14:685][192]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.05.26-21.46.14:692][192]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.05.26-21.46.14:696][192]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.05.26-21.46.14:721][192]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.05.26-21.46.14:723][192]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.05.26-21.46.14:737][192]LogUObjectHash: Compacting FUObjectHashTables data took   2.67ms
+[2020.05.26-21.46.14:756][193]LogPlayLevel: Display: Destroying online subsystem :Context_20
+[2020.05.26-21.46.19:127][673]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/_Nedoida/Test/NedoidaWithCloakTogether" FILE="D:/Projects/UE Projects/nedoida/Content/_Nedoida/Test/NedoidaWithCloakTogether.uasset" SILENT=true
+[2020.05.26-21.46.19:841][673]LogSavePackage: Moving 'D:/Projects/UE Projects/nedoida/Saved/NedoidaWithCloakTogether1BDF00644BAB95D4AC4082B99709207D.tmp' to 'D:/Projects/UE Projects/nedoida/Content/_Nedoida/Test/NedoidaWithCloakTogether.uasset'
+[2020.05.26-21.46.19:866][673]AssetCheck: New page: Asset Save: NedoidaWithCloakTogether
+[2020.05.26-21.46.19:866][673]LogContentValidation: Display: Validating SkeletalMesh /Game/_Nedoida/Test/NedoidaWithCloakTogether.NedoidaWithCloakTogether
+[2020.05.26-21.52.24:420][448]LogUObjectHash: Compacting FUObjectHashTables data took   2.84ms
+[2020.05.26-21.52.24:428][448]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/Test' took 0.042
+[2020.05.26-21.52.24:429][448]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/_Nedoida/Test/NedoidaWithCloakTogether] ([1] browsable assets)...
+[2020.05.26-21.52.24:439][448]OBJ SavePackage:     Rendered thumbnail for [SkeletalMesh /Game/_Nedoida/Test/NedoidaWithCloakTogether.NedoidaWithCloakTogether]
+[2020.05.26-21.52.24:440][448]OBJ SavePackage: Finished generating thumbnails for package [/Game/_Nedoida/Test/NedoidaWithCloakTogether]
+[2020.05.26-21.52.25:200][448]LogSavePackage: Moving 'D:/Projects/UE Projects/nedoida/Saved/NedoidaWithCloakTogether_Auto55683713C4765945C014A61A5C48C88BB.tmp' to 'D:/Projects/UE Projects/nedoida/Saved/Autosaves/Game/_Nedoida/Test/NedoidaWithCloakTogether_Auto5.uasset'
+[2020.05.26-21.52.25:201][448]LogFileHelpers: Auto-saving content packages took 0.773
+[2020.05.26-22.06.45:247][193]LogWorld: UWorld::CleanupWorld for World_5, bSessionEnded=true, bCleanupResources=true
+[2020.05.26-22.06.45:247][193]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.05.26-22.07.02:142][928]BlueprintLog: New page: Compile MyCharacter
+[2020.05.26-22.07.02:663][928]LogUObjectHash: Compacting FUObjectHashTables data took   3.41ms
+[2020.05.26-22.07.02:990][958]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/_CoreMechanics/MyCharacter" FILE="D:/Projects/UE Projects/nedoida/Content/_CoreMechanics/MyCharacter.uasset" SILENT=true
+[2020.05.26-22.07.03:095][958]LogSavePackage: Moving 'D:/Projects/UE Projects/nedoida/Saved/MyCharacter99DD833842C7FAEAC599379978494C38.tmp' to 'D:/Projects/UE Projects/nedoida/Content/_CoreMechanics/MyCharacter.uasset'
+[2020.05.26-22.07.03:108][958]AssetCheck: New page: Asset Save: MyCharacter
+[2020.05.26-22.07.03:108][958]LogContentValidation: Display: Validating Blueprint /Game/_CoreMechanics/MyCharacter.MyCharacter
+[2020.05.26-22.07.06:811][314]LogUObjectHash: Compacting FUObjectHashTables data took   3.46ms
+[2020.05.26-22.07.09:199][314]LogSlate: Window 'Delete Assets' being destroyed
+[2020.05.26-22.07.15:632][314]LogWorld: UWorld::CleanupWorld for World_11, bSessionEnded=true, bCleanupResources=true
+[2020.05.26-22.07.15:632][314]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.05.26-22.07.15:667][314]LogUObjectGlobals: Force Deleting 2 Package(s):
+	Asset Name: /Game/_Nedoida/Test/NedoidaWithCloakTogether_PhysicsAsset.NedoidaWithCloakTogether_PhysicsAsset
+	Asset Name: /Game/_Nedoida/Test/NedoidaWithCloakTogether.NedoidaWithCloakTogether
+[2020.05.26-22.07.32:904][314]LogSlate: Window 'Message' being destroyed
+[2020.05.26-22.07.32:910][314]LogObjectTools: Warning: ForceDeleteObject failed to delete NedoidaWithCloakTogether, this package is now potentially corrupt
+[2020.05.26-22.07.33:057][314]LogUObjectHash: Compacting FUObjectHashTables data took   3.23ms
+[2020.05.26-22.07.33:084][314]LogOutputDevice: Warning: 
+
+Script Stack (0 frames):
+
+[2020.05.26-22.07.33:726][314]LogStats: FPlatformStackWalk::StackWalkAndDump -  0.642 s
+[2020.05.26-22.07.33:727][314]LogOutputDevice: Error: === Handled ensure: ===
+[2020.05.26-22.07.33:727][314]LogOutputDevice: Error: 
+[2020.05.26-22.07.33:727][314]LogOutputDevice: Error: Ensure condition failed: false [File:D:/Build/++UE4/Sync/Engine/Source/Editor/UnrealEd/Private/ObjectTools.cpp] [Line: 2826]
+[2020.05.26-22.07.33:727][314]LogOutputDevice: Error: 
+[2020.05.26-22.07.33:727][314]LogOutputDevice: Error: 					Failed to unload all packages during ForceDeleteObjects - 
+[2020.05.26-22.07.33:727][314]LogOutputDevice: Error: 					these packages are likely corrupt. Consider restarting the 
+[2020.05.26-22.07.33:727][314]LogOutputDevice: Error: 					editor, noting which assets remain and then deleting them 
+[2020.05.26-22.07.33:727][314]LogOutputDevice: Error: 					from the file system manually: 
+[2020.05.26-22.07.33:727][314]LogOutputDevice: Error: /Game/_Nedoida/Test/NedoidaWithCloakTogether
+[2020.05.26-22.07.33:727][314]LogOutputDevice: Error: Stack: 
+[2020.05.26-22.07.33:727][314]LogOutputDevice: Error: [Callstack] 0x00007ffb13780538 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2020.05.26-22.07.33:727][314]LogOutputDevice: Error: [Callstack] 0x00007ffb13046e06 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2020.05.26-22.07.33:727][314]LogOutputDevice: Error: [Callstack] 0x00007ffb128616f7 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2020.05.26-22.07.33:727][314]LogOutputDevice: Error: [Callstack] 0x00007ffb12adcde8 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2020.05.26-22.07.33:727][314]LogOutputDevice: Error: [Callstack] 0x00007ffb12ad65c4 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2020.05.26-22.07.33:727][314]LogOutputDevice: Error: [Callstack] 0x00007ffb1d271498 UE4Editor-Slate.dll!UnknownFunction []
+[2020.05.26-22.07.33:727][314]LogOutputDevice: Error: [Callstack] 0x00007ffb1d289281 UE4Editor-Slate.dll!UnknownFunction []
+[2020.05.26-22.07.33:727][314]LogOutputDevice: Error: [Callstack] 0x00007ffb1d0e323f UE4Editor-Slate.dll!UnknownFunction []
+[2020.05.26-22.07.33:727][314]LogOutputDevice: Error: [Callstack] 0x00007ffb1d169175 UE4Editor-Slate.dll!UnknownFunction []
+[2020.05.26-22.07.33:727][314]LogOutputDevice: Error: [Callstack] 0x00007ffb1d15413e UE4Editor-Slate.dll!UnknownFunction []
+[2020.05.26-22.07.33:727][314]LogOutputDevice: Error: [Callstack] 0x00007ffb1d148f67 UE4Editor-Slate.dll!UnknownFunction []
+[2020.05.26-22.07.33:727][314]LogOutputDevice: Error: [Callstack] 0x00007ffb4ff34ca1 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2020.05.26-22.07.33:727][314]LogOutputDevice: Error: [Callstack] 0x00007ffb4ff2242f UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2020.05.26-22.07.33:727][314]LogOutputDevice: Error: [Callstack] 0x00007ffb4ff37195 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2020.05.26-22.07.33:727][314]LogOutputDevice: Error: [Callstack] 0x00007ffb4ff1ec40 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2020.05.26-22.07.33:727][314]LogOutputDevice: Error: [Callstack] 0x00007ffb72095c0d USER32.dll!UnknownFunction []
+[2020.05.26-22.07.33:727][314]LogOutputDevice: Error: [Callstack] 0x00007ffb72095602 USER32.dll!UnknownFunction []
+[2020.05.26-22.07.33:727][314]LogOutputDevice: Error: [Callstack] 0x00007ffb4ff38569 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2020.05.26-22.07.33:727][314]LogOutputDevice: Error: [Callstack] 0x00007ffb1d174080 UE4Editor-Slate.dll!UnknownFunction []
+[2020.05.26-22.07.33:727][314]LogOutputDevice: Error: [Callstack] 0x00007ffb1d111c85 UE4Editor-Slate.dll!UnknownFunction []
+[2020.05.26-22.07.33:727][314]LogOutputDevice: Error: [Callstack] 0x00007ffb12b70fa6 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2020.05.26-22.07.33:727][314]LogOutputDevice: Error: [Callstack] 0x00007ffb1303a1ce UE4Editor-UnrealEd.dll!UnknownFunction []
+[2020.05.26-22.07.33:727][314]LogOutputDevice: Error: [Callstack] 0x00007ffb13039696 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2020.05.26-22.07.33:727][314]LogOutputDevice: Error: [Callstack] 0x00007ffb0a864a9c UE4Editor-ContentBrowser.dll!UnknownFunction []
+[2020.05.26-22.07.33:727][314]LogOutputDevice: Error: [Callstack] 0x00007ffb0a986377 UE4Editor-ContentBrowser.dll!UnknownFunction []
+[2020.05.26-22.07.33:727][314]LogOutputDevice: Error: [Callstack] 0x00007ffb0a963ba8 UE4Editor-ContentBrowser.dll!UnknownFunction []
+[2020.05.26-22.07.33:727][314]LogOutputDevice: Error: [Callstack] 0x00007ffb1d119ada UE4Editor-Slate.dll!UnknownFunction []
+[2020.05.26-22.07.33:727][314]LogOutputDevice: Error: [Callstack] 0x00007ffb1d1503de UE4Editor-Slate.dll!UnknownFunction []
+[2020.05.26-22.07.33:727][314]LogOutputDevice: Error: [Callstack] 0x00007ffb0a9ae08b UE4Editor-ContentBrowser.dll!UnknownFunction []
+[2020.05.26-22.07.33:727][314]LogOutputDevice: Error: [Callstack] 0x00007ffb1d0e1041 UE4Editor-Slate.dll!UnknownFunction []
+[2020.05.26-22.07.33:727][314]LogOutputDevice: Error: [Callstack] 0x00007ffb1d15224d UE4Editor-Slate.dll!UnknownFunction []
+[2020.05.26-22.07.33:727][314]LogOutputDevice: Error: [Callstack] 0x00007ffb1d147b0f UE4Editor-Slate.dll!UnknownFunction []
+[2020.05.26-22.07.33:727][314]LogOutputDevice: Error: [Callstack] 0x00007ffb4ff34918 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2020.05.26-22.07.33:727][314]LogOutputDevice: Error: [Callstack] 0x00007ffb4ff2242f UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2020.05.26-22.07.33:727][314]LogOutputDevice: Error: [Callstack] 0x00007ffb4ff37195 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2020.05.26-22.07.33:727][314]LogOutputDevice: Error: [Callstack] 0x00007ffb4ff1ec40 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2020.05.26-22.07.33:727][314]LogOutputDevice: Error: [Callstack] 0x00007ffb72095c0d USER32.dll!UnknownFunction []
+[2020.05.26-22.07.33:727][314]LogOutputDevice: Error: [Callstack] 0x00007ffb72095602 USER32.dll!UnknownFunction []
+[2020.05.26-22.07.33:727][314]LogOutputDevice: Error: [Callstack] 0x00007ffb4ff38699 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2020.05.26-22.07.33:727][314]LogOutputDevice: Error: [Callstack] 0x00007ff64b906db0 UE4Editor.exe!UnknownFunction []
+[2020.05.26-22.07.33:727][314]LogOutputDevice: Error: [Callstack] 0x00007ff64b91c3ec UE4Editor.exe!UnknownFunction []
+[2020.05.26-22.07.33:727][314]LogOutputDevice: Error: [Callstack] 0x00007ff64b91c4ca UE4Editor.exe!UnknownFunction []
+[2020.05.26-22.07.33:727][314]LogOutputDevice: Error: [Callstack] 0x00007ff64b92ceae UE4Editor.exe!UnknownFunction []
+[2020.05.26-22.07.33:727][314]LogOutputDevice: Error: [Callstack] 0x00007ff64b92fcbe UE4Editor.exe!UnknownFunction []
+[2020.05.26-22.07.33:727][314]LogOutputDevice: Error: [Callstack] 0x00007ffb70f97bd4 KERNEL32.DLL!UnknownFunction []
+[2020.05.26-22.07.33:727][314]LogOutputDevice: Error: [Callstack] 0x00007ffb72e0ced1 ntdll.dll!UnknownFunction []
+[2020.05.26-22.07.33:727][314]LogOutputDevice: Error: 
+[2020.05.26-22.07.33:728][314]LogStats:                SubmitErrorReport -  0.000 s
